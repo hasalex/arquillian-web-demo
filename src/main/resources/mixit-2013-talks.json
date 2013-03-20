@@ -1,0 +1,2341 @@
+[
+    {
+        "id": 124,
+        "title": "Testez vos idées en quelques heures !",
+        "summary": "Initiation à la Customer Validation et au Lean Startup",
+        "description": "Combien de développeurs ont zéro visiteur chaque fois qu’ils créent un site ? Combien d’entrepreneurs se plantent car persuadés de connaître le marché qu’ils attaquent ? Combien d’entrepreneurs font refaire X fois l’application à leurs développeurs car à chaque fois les utilisateurs potentiels ne sont pas convaincus ? …\r\n\r\nBeaucoup de temps perdu lors de la création d’un service web pourrait être évité en prenant un peu de recul et en posant quelques questions aux personnes directement intéressées par votre service.\r\n\r\nNous verrons quelques applications pratiques de la Customer Validation. Nous verrons également comment développer le plus rapidement possible votre site, afin d’être le plus tôt possible sur le marché. \r\n\r\nLa conférence sera agrémentée d\u0027exemples tirés de mon expérience avec [Human Coders](http://humancoders.com).",
+        "interests": [
+            {
+                "id": 35,
+                "name": "Lean Startup",
+                "url": "http://www.mix-it.fr/api/interests/35"
+            },
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 43,
+                "name": "Projet",
+                "url": "http://www.mix-it.fr/api/interests/43"
+            },
+            {
+                "id": 252,
+                "name": "Startup",
+                "url": "http://www.mix-it.fr/api/interests/252"
+            },
+            {
+                "id": 251,
+                "name": "Entrepreneuriat",
+                "url": "http://www.mix-it.fr/api/interests/251"
+            },
+            {
+                "id": 26,
+                "name": "Lean",
+                "url": "http://www.mix-it.fr/api/interests/26"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 546,
+                "firstname": "Camille",
+                "lastname": "Roux",
+                "url": "http://www.mix-it.fr/api/members/546"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 125,
+        "title": "The Product is the Byproduct",
+        "summary": "A great product is closer to an accident. It\u0027s the byproduct of the environment you build at your company.",
+        "description": "People in Silicon Valley are dicks. They perpetuate this idea that if you\u0027re smart enough, have an amazing vision, and keep pushing at it, then you\u0027ll end up with a great product. Take a look at startup success stories, though: a ton of them succeeded in spite of their original vision. A great product is closer to an accident. It\u0027s the byproduct of the environment you build at your company. This environment may actually be harder to build than the product itself, but you\u0027ll be left with a better everything by the end of it.",
+        "interests": [
+            {
+                "id": 74,
+                "name": "Web",
+                "url": "http://www.mix-it.fr/api/interests/74"
+            },
+            {
+                "id": 252,
+                "name": "Startup",
+                "url": "http://www.mix-it.fr/api/interests/252"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 564,
+                "firstname": "Zach",
+                "lastname": "Holman",
+                "url": "http://www.mix-it.fr/api/members/564"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 126,
+        "title": "The hitchhikers guide to UXing without a UXer",
+        "summary": "Even without a UXer you can learn to build \u0026 develop apps the right way. This not a definitive guide, but it will get you started.",
+        "description": "Sometimes you are tasked with building great things by yourself or in a small team. \r\nBootstrapped start-ups don\u0027t always have the budget for a dedicated Uxer to help you design the best apps, software or websites.\r\n\r\nSo how do design great things without a Uxer?\r\nThis is not a definitive guide or to even to be used instead of getting professional UX help but it will get you started developing the right way and stop you making classic mistakes. \r\n\r\nBefore you even consider touching your dev environment I will show you how to \"Start with one idea\", “Think like a user” and set out your user journeys. From this solid foundation I will show you how to wireframe your logic and build it as rough a prototype as you can manage. We then consider how to evaluate and iterate on your designs and what tools you can use.  Finally, I outline the importance of never being afraid to scrap anything which doesn’t work. All without a single line of code being written.\r\n",
+        "speakers": [
+            {
+                "id": 566,
+                "firstname": "Chrissy",
+                "lastname": "Welsh",
+                "url": "http://www.mix-it.fr/api/members/566"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 127,
+        "title": "Une équipe si particulière",
+        "summary": "Qu\u0027est-ce qui distingue une équipe Agile? On découvre une nouvelle façon de travailler ensemble, mais qu\u0027est-ce que l\u0027on découvre vraiment?",
+        "description": "Nous avons tous des ancêtres capables de performance d\u0027équipe. Ceux qui n\u0027ont pas su s\u0027organiser pour chasser le mammouth n\u0027ont pas eu beaucoup de descendants.\r\nScrum révolutionne le travail en donnant à l\u0027équipe le pouvoir de décision et en la laissant s\u0027organiser.  Révolutionnaire?  Ce n\u0027est pas le mot que j\u0027emploierais. On a peut-être un peu oublié comment fonctionnent les groupe humains. De la politique d\u0027Aristote à la psychologie moderne on ne manque pourtant pas d\u0027analyses sur le sujet.  Il manque juste peut-être quelques passerelles que je vous propose de jeter entre eux  et nous",
+        "interests": [
+            {
+                "id": 261,
+                "name": "Sociologie",
+                "url": "http://www.mix-it.fr/api/interests/261"
+            },
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 259,
+                "name": "Philosophie",
+                "url": "http://www.mix-it.fr/api/interests/259"
+            },
+            {
+                "id": 33,
+                "name": "Coaching",
+                "url": "http://www.mix-it.fr/api/interests/33"
+            },
+            {
+                "id": 260,
+                "name": "Psychologie",
+                "url": "http://www.mix-it.fr/api/interests/260"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 135,
+                "firstname": "Jean-françois",
+                "lastname": "Jagodzinski",
+                "url": "http://www.mix-it.fr/api/members/135"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 128,
+        "title": "Bâtir une équipe à partir de ses valeurs",
+        "summary": "Une équipe ce sont des personnes. Permettre aux équipiers d\u0027observer trés tôt de ce qui les réunis ou les éloigne favorise l\u0027esprit d\u0027équipe",
+        "description": "Dans le monde Agile les valeurs sont importantes. Et une équipe Agile ne peut pas être performante sans valeurs. Simplement parce que l\u0027Agilité ne fonctionne correctement que si l\u0027on accepte de prendre des décisions radicale, de montrer ce que l\u0027on fait, de travailler vraiment ensemble… ce qui ne se fait pas sans courage, sans respect, sans franchise…\r\nAu travers de quelques ateliers je vous propose de tester la constitution d\u0027équipe avec un regard peut-être original, celui des valeurs particulière qui vont orienter votre vie d\u0027équipe Agile.",
+        "interests": [
+            {
+                "id": 261,
+                "name": "Sociologie",
+                "url": "http://www.mix-it.fr/api/interests/261"
+            },
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 259,
+                "name": "Philosophie",
+                "url": "http://www.mix-it.fr/api/interests/259"
+            },
+            {
+                "id": 33,
+                "name": "Coaching",
+                "url": "http://www.mix-it.fr/api/interests/33"
+            },
+            {
+                "id": 260,
+                "name": "Psychologie",
+                "url": "http://www.mix-it.fr/api/interests/260"
+            },
+            {
+                "id": 45,
+                "name": "Collaboration",
+                "url": "http://www.mix-it.fr/api/interests/45"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 135,
+                "firstname": "Jean-françois",
+                "lastname": "Jagodzinski",
+                "url": "http://www.mix-it.fr/api/members/135"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 129,
+        "title": "Software architecture for developers",
+        "summary": "A talk for software developers that want to learn more about software architecture, technical leadership and the balance with agility.",
+        "description": "The agile and software craftsmanship movements are helping to push up the quality of the software systems that we build. Together they are helping us to deliver better software within the typical time and budgetary constraints that most of us have. But there\u0027s more we can do because even a small amount of software architecture can help prevent many of the problems that projects still face, particularly if the team seems to be more chaotic than they are self-organising. Successful software projects aren\u0027t just about good code and sometimes you need to step away from the IDE for a few moments to see the bigger picture.\r\n\r\nThis session is about that bigger picture and is aimed at software developers that want to learn more about software architecture, technical leadership and the balance with agility. Join us for a guide to software architecture on modern software projects that\u0027s pragmatic rather than academic and lightweight rather than \"enterprisey\".",
+        "interests": [
+            {
+                "id": 262,
+                "name": "Software Architecture",
+                "url": "http://www.mix-it.fr/api/interests/262"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 574,
+                "firstname": "Simon",
+                "lastname": "Brown",
+                "url": "http://www.mix-it.fr/api/members/574"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 130,
+        "title": "Agile software architecture sketches",
+        "summary": "Agility is about moving fast and this requires good communication, but can *you* communicate the design of your software system effectively?",
+        "description": "Agility is about moving fast and this requires good communication, but it\u0027s surprising that many teams struggle to effectively communicate the architecture of their software. We have the Unified Modelling Language (UML), a formal standardised notation for communicating the design of software systems, but many people favour informal boxes and lines style sketches instead. The problem is that such diagrams rarely make any sense, usually need a narrative to accompany them and ultimately slow the team down.\r\n\r\nAbandoning UML is one thing but, in the race for agility, many software development teams have lost the ability to communicate visually. In this workshop you\u0027ll be asked to design a software system and practice communicating your vision through a series of simple yet effective software architecture sketches.",
+        "speakers": [
+            {
+                "id": 574,
+                "firstname": "Simon",
+                "lastname": "Brown",
+                "url": "http://www.mix-it.fr/api/members/574"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 131,
+        "title": "Cloud Patterns",
+        "summary": "présentation des patterns d\u0027architecture à appliquer à vos développements pour accompagner votre transition dans le Cloud",
+        "description": "Même si le Cloud promet d\u0027héberger toutes vos applications, les choses sont rarement aussi simple que sur la plaquette commerciale, et vous ne pouvez pas benner votre application \"legacy\" à base d\u0027EJB 1.0 dans le cloud sans un minimum de refactoring. \r\n\r\nAu cours de cette session, j\u0027expliquerais quelques patterns d\u0027architecture à appliquer à vos développements pour que la transition dans le Cloud se fasse de manière aussi douce que possible. J\u0027utiliserais comme exemples pratiques l\u0027application www.mix-it.fr (évidement !) ainsi que l\u0027application d\u0027inscription à Devoxx, qui a été migrée en quelques jours sur l\u0027infrastructure Cloudbees.",
+        "interests": [
+            {
+                "id": 12,
+                "name": "Cloud",
+                "url": "http://www.mix-it.fr/api/interests/12"
+            },
+            {
+                "id": 212,
+                "name": "distributed programming",
+                "url": "http://www.mix-it.fr/api/interests/212"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 189,
+                "firstname": "nicolas",
+                "lastname": "De loof",
+                "url": "http://www.mix-it.fr/api/members/189"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 132,
+        "title": "Game of Clouds",
+        "summary": "L\u0027application \"Games of Thrones\" que nous développerons ensemble pas à pas nous servira de prétexte pour explorer les possibilités du Cloud.",
+        "description": "*\u0027Games of Clouds\u0027 conte les intrigues du royaume des sept DSI. En proie à de nombreuse convoitise, ce royaume est déchiré entre de nombreux prétendants, chacun voulant défendre les interets de leur propre maison.*\r\n*Mais il faut également compter dans ce combat pour le trône, une menace inconnue, dont personne ne semble se soucier...*\r\n\r\nSi cela rappelle la façon dont sont gérée les ressources informatiques dans votre enterprise, vous avez frappé à la bonne porte. \r\n\r\nVenez pour découvrir le Cloud par la pratique, et déployer votre première (?) application sur CloudBees en profitant de l\u0027écosystème de services associés à la plateforme. L\u0027application \"Games of Thrones\" que nous développerons ensemble pas à pas nous servira de prétexte pour explorer les possibilités du Cloud.\r\n\r\nTous ceux qui auront réussi leur déploiement recevrons en cadeau de félicitation une bouteille de notre excellente CloudBeer :)",
+        "interests": [
+            {
+                "id": 12,
+                "name": "Cloud",
+                "url": "http://www.mix-it.fr/api/interests/12"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 189,
+                "firstname": "nicolas",
+                "lastname": "De loof",
+                "url": "http://www.mix-it.fr/api/members/189"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 133,
+        "title": "Validated Influencing",
+        "summary": "Introduction to Validated Influencing: a systematic approach to evaluate our progress and ensure we are progressing into the right direction",
+        "description": "In this talk Ivana will present the systematic approach of Validated Influencing. She applies the Lean Startup’s Validated Learning ideas to observation and influencing.\r\n\r\nWhen we lead, coach, follow, we are bound to base our behaviour and choices on assumptions. We need short feedback loops and good metrics to evaluate our progress and that we are progressing into the right direction. Validated Influencing offers a way to reduce assumptions and shorten feedback loop so that we improve consciously.\r\n\r\nIvana will introduce common language for Validated Influencing, as well as a method to improve leadership, coaching and change artists’ skills by focusing on awareness and validation of assumptions when observing and/or influencing people and systems. She will give examples of how Validated Influencing has been used in organizations in practice. The method improves the effectiveness and impact of our influencing. In addition, she will present two examples of the method used in practice.\r\n\r\n",
+        "speakers": [
+            {
+                "id": 575,
+                "firstname": "Ivana",
+                "lastname": "Gancheva",
+                "url": "http://www.mix-it.fr/api/members/575"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 134,
+        "title": "Validated Influencing Workshop",
+        "summary": "Introduction to Validated Influencing (see Validated Influencing talk); Group exercises.",
+        "description": "In this workshop Ivana will take you on a short trip to experience the systematic approach of Validated Influencing.\r\n\r\nShe applies the Lean Startup’s Validated Learning idea to observing and influencing complex systems.\r\n\r\nWhen we lead, coach, or influence for change we base our choices and actions on assumptions. We need short feedback loops and good metrics to evaluate our progress and that we are progressing into the right direction. Validated Influencing offers a way to reduce assumptions and shorten feedback loops so that we improve consciously. Raising our awareness improves the effectiveness and impact of our work.\r\n\r\nValidated Influencing is exceptionally useful in situations where the goal is fuzzy and progress hard to assess. Our results have shown increased transparency and trust in collaborating on change as external coaches and increased courage and pace in challenging personal transitions.\r\n\r\nIvana will also let you work on concrete small examples to learn how to apply the method yourself.\r\n",
+        "speakers": [
+            {
+                "id": 575,
+                "firstname": "Ivana",
+                "lastname": "Gancheva",
+                "url": "http://www.mix-it.fr/api/members/575"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 140,
+        "title": "The road to potential shippable increments",
+        "summary": "A case study on how a team used the improvement kata and Theory of Constraints to consistently deliver 100% of their sprint backlog and more",
+        "description": "One of the most common struggles of Scrum teams is finishing a sprint 100%.\r\nIn their retrospectives, teams work out improvement actions to address this issue.\r\nThese actions are often targeting better planning, better estimating or better preparation of user stories.\r\nHowever, as time proceeds, the next sprints are not completed 100% neither.  Even when the Scrum master encourages the team\r\nto commit to less story points.  They always seems to deliver 80% to 90% of the sprint backlog.\r\nNot only is this very demotivating, it also compromises shipping the next increment.\r\nIn this session I will explain with a case study, why this struggle is not related to poor planning, estimating or preparation.\r\nI will share how this specific team used the improvement kata and Theory of Constraints to optimize their flow of work and ended up finishing their sprints successfully.",
+        "interests": [
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 17,
+                "name": "Scrum",
+                "url": "http://www.mix-it.fr/api/interests/17"
+            },
+            {
+                "id": 18,
+                "name": "Kanban",
+                "url": "http://www.mix-it.fr/api/interests/18"
+            },
+            {
+                "id": 26,
+                "name": "Lean",
+                "url": "http://www.mix-it.fr/api/interests/26"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 579,
+                "firstname": "Nick",
+                "lastname": "Oostvogels",
+                "url": "http://www.mix-it.fr/api/members/579"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 145,
+        "title": "#OMG, mon équipe fait son haka en kanban style !?!",
+        "summary": "Ou comment le Scrumban peut répondre à certaines problématiques lorsque l\u0027on fait du Scrum, du point de vue de l\u0027équipe et du Product Owner.",
+        "description": "L’objectif de cette session est de faire découvrir le ScrumBan par des cas concrets en répondant à des problématiques du quotidien que j’observe dans les équipes que j’accompagne :\r\n* Les Scrum Smells, comment s’en débarrasser\r\n* Sortir Scrum de sa zone de confort et l\u0027améliorer\r\n\r\nLes bénéfices pour les participants seront d’avoir des pistes à mettre en œuvre dès le lendemain de la session pour faire évoluer son travail, le fluidifier et moins gaspiller.\r\n\r\nMon objectif avec cette session est de faire découvrir Kanban mis en œuvre dans un contexte Scrum et ses bénéfices afin qu\u0027il se diffuse plus largement dans la communauté Agile.",
+        "speakers": [
+            {
+                "id": 585,
+                "firstname": "laurent",
+                "lastname": "morisseau",
+                "url": "http://www.mix-it.fr/api/members/585"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 146,
+        "title": "Challenge Kanban",
+        "summary": "Venez découvrir le Kanban par la pratique, au cours d\u0027un atelier de référence, pour le mettre en oeuvre dans votre équipe Scrum.",
+        "description": "Vous faites partie d\u0027une startup éditrice  d\u0027une solution SAAS. A chaque nouvelle fonctionnalité déployée, vous captez de nouveaux abonnés. Votre capacité de production étant limitée, quelle sera votre stratégie pour réussir à capter le plus de clients ?\r\nQuelles seront vos tactiques pour déjouer les goulets d\u0027étranglements ?\r\nSerez-vous capable de faire les bons choix d\u0027injection, de sélection ou d\u0027allocation de capacité pour établir le nouveau record ? \r\n\r\nPour le savoir, venez relever le challenge Kanban !\r\n\r\nVous y découvrirez comment fonctionne un système kanban avec ses limites kanban, les classes de service et les cartes de contrôles avec cet atelier ludique.",
+        "speakers": [
+            {
+                "id": 585,
+                "firstname": "laurent",
+                "lastname": "morisseau",
+                "url": "http://www.mix-it.fr/api/members/585"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 149,
+        "title": "Live coding avec Yeoman \u0026 AngularJS",
+        "summary": "Présentation des solutions Yeoman et AngularJS et réalisation en live d’une interface Web permettant l\u0027édition de données d\u0027un service REST",
+        "description": "Qui n’a jamais réalisé une interface d’édition de données type CRUD ? Il faut toujours beaucoup de code passe plat et ce n’est jamais aussi facile que cela le devrait.\r\nL’ecosystème JavaScript permet aujourd’hui de le faire plus simplement que jamais.\r\n\r\nAprès une rapide présentation des solutions Yeoman http://yeoman.io et AngularJS http://angularjs.org, réalisation en live d’une interface Web permettant consultation, création, modification et suppression à partir d’un service REST existant.",
+        "interests": [
+            {
+                "id": 246,
+                "name": "Angular.js",
+                "url": "http://www.mix-it.fr/api/interests/246"
+            },
+            {
+                "id": 5,
+                "name": "JavaScript",
+                "url": "http://www.mix-it.fr/api/interests/5"
+            },
+            {
+                "id": 203,
+                "name": "MVC",
+                "url": "http://www.mix-it.fr/api/interests/203"
+            },
+            {
+                "id": 273,
+                "name": "Yeoman",
+                "url": "http://www.mix-it.fr/api/interests/273"
+            },
+            {
+                "id": 13,
+                "name": "HTML5",
+                "url": "http://www.mix-it.fr/api/interests/13"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 105,
+                "firstname": "Matthieu",
+                "lastname": "Lux",
+                "url": "http://www.mix-it.fr/api/members/105"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 150,
+        "title": "Why Kotlin?",
+        "summary": "Why so many new languages? Isn\u0027t good old Java good enough? Why Kotlin?",
+        "description": " Kotlin is a modern statically typed language targeting JVM and JavaScript and intended for industrial use. The main goal behind this project is to create a language that would be a good tool for developers, i.e. will be safe, concise, flexible, 100% Java-compatible and well-supported by IDE and other tooling.\r\n\r\nKotlin is an open-source project developed by JetBrains, creators of IntelliJ IDEA and ReSharper, with the help of the community.\r\n\r\nThis talk tries to explain the reasons standing behind the trend of creating new programming languages for the JVM platform and the motivation to create one more language.\r\nIt also gives an overview of the language in its present state and a perspective we have for the future. Among other things, the following features will be covered (in the talk and/or workshop):\r\n* Static null-safety;\r\n* Extension functions;\r\n* Higher-order functions and type-safe builders;\r\n* Smart casts: Kotlin\u0027s lightweight pattern matching;\r\n* Making Java APIs better with Kotlin;\r\n* Developing mixed Kotlin/Java projects.\r\n\r\nTo find out more about Kotlin, please refer to http://kotlin.jetbrains.org",
+        "interests": [
+            {
+                "id": 55,
+                "name": "Groovy",
+                "url": "http://www.mix-it.fr/api/interests/55"
+            },
+            {
+                "id": 186,
+                "name": "IntelliJ IDEA",
+                "url": "http://www.mix-it.fr/api/interests/186"
+            },
+            {
+                "id": 60,
+                "name": "Ceylon",
+                "url": "http://www.mix-it.fr/api/interests/60"
+            },
+            {
+                "id": 19,
+                "name": "Kotlin",
+                "url": "http://www.mix-it.fr/api/interests/19"
+            },
+            {
+                "id": 274,
+                "name": "JVM platform",
+                "url": "http://www.mix-it.fr/api/interests/274"
+            },
+            {
+                "id": 2,
+                "name": "Java",
+                "url": "http://www.mix-it.fr/api/interests/2"
+            },
+            {
+                "id": 66,
+                "name": "Scala",
+                "url": "http://www.mix-it.fr/api/interests/66"
+            },
+            {
+                "id": 181,
+                "name": "Java 8",
+                "url": "http://www.mix-it.fr/api/interests/181"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 591,
+                "firstname": "Svetlana",
+                "lastname": "Isakova",
+                "url": "http://www.mix-it.fr/api/members/591"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 154,
+        "title": "Dive into Kotlin",
+        "summary": "This workshop aimed to demonstrate how different typical programming problems can be easily solved with Kotlin language.",
+        "description": "In this workshop you\u0027ll try hands-on Kotlin programming and see what benefits a modern programming language can give you.\r\n\r\nPlease bring your laptops. Pair programming is welcome. No preinstallation required.\r\n\r\nTo find out more about Kotlin, please refer to http://kotlin.jetbrains.org\r\n\r\n",
+        "interests": [
+            {
+                "id": 186,
+                "name": "IntelliJ IDEA",
+                "url": "http://www.mix-it.fr/api/interests/186"
+            },
+            {
+                "id": 19,
+                "name": "Kotlin",
+                "url": "http://www.mix-it.fr/api/interests/19"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 591,
+                "firstname": "Svetlana",
+                "lastname": "Isakova",
+                "url": "http://www.mix-it.fr/api/members/591"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 165,
+        "title": "Un carpaccio, un !",
+        "summary": "Explorer comment découper un développement en tranches aussi fines que désirées tant du point de vue du développeur que du métier.",
+        "description": "Exercice de 120 minutes dont le but est de montrer (1) aux \"clients\" comment découper les besoins métier aussi finement que nécessaire pour tenir dans n\u0027importe quelle taille d\u0027itération ou de sprint, (2) aux développeurs comment les meilleurs développeurs travaillent aujourd’hui en décomposant leur effort en de très nombreux épisodes courts produisant du code entièrement fonctionnel, testé, visible par l\u0027utilisateur final. \r\n\r\nCet exercice plutôt intense montre bien à la fois au côté métier et au côté développement comment travailler avec des incréments très fins tel que cela est pratiqué dans les contextes agiles actuels. Le debrief de cet exercice met aussi en lumière plusieurs aspects psychologiques des projets de développement logiciel. A l’issue de cette session, les participants auront également appris un exercice leur permettant à leur tour de disséminer cette pratique dans leurs entreprises. \r\n\r\nIl est nécessaire d’avoir au moins entre un tiers et la moitié des participants équipés d’un PC avec un IDE installé. N’importe quel environnement et langage de développement conviennent. Cet exercice a été mis au point par Alistair Cockburn. Je l’ai présenté plusieurs fois en conférence et je l\u0027utilise dans le cadre de coaching de projet.",
+        "speakers": [
+            {
+                "id": 601,
+                "firstname": "Géry",
+                "lastname": "Derbier",
+                "url": "http://www.mix-it.fr/api/members/601"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 169,
+        "title": "Agilistes : n\u0027oubliez pas la technique !",
+        "summary": "Présentation d\u0027outils et méthodes pour ne pas oublier que la technique est indispensables au succès d\u0027une transition agile",
+        "description": "Agiliste et développeur, je pense que l\u0027ingénierie agile est indispensable aux équipes pour permettre une transition vers l\u0027agilité : tests unitaires, TDD, refactoring, bonnes pratiques, code propre, intégration continue, pair-programming, etc ... Malheureusement, cet aspect technique et souvent sous-estimé voir inconnu par les acteurs souhaitant promouvoir une migration agile au sein de leur structure. Généralement, l\u0027accent est mis sur les aspects de \"Gestion de projet\" notamment avec Scrum : on pense à former un Product Owner et un Scrum Master, on met en place un backlog, un Scrum board, des itérations, des revues, des rétrospectives, on implique le client, etc .... et malgré tout, les développements et leur qualité ne sont pas à la hauteur des attentes. L\u0027agilité ne fonctionne pas ? Si ! Mais on oublie souvent que les développeurs doivent changer leurs outillages et surtout leurs pratiques, c\u0027est nouveau, c\u0027est difficile, il faut les aider et les accompagner ! Cette session aura donc pour objectif de préciser tous ces aspects techniques, les nommer, les définir, en expliquer les avantages mais également les difficultés pour les mettre en œuvre.",
+        "interests": [
+            {
+                "id": 275,
+                "name": "Clean Code",
+                "url": "http://www.mix-it.fr/api/interests/275"
+            },
+            {
+                "id": 239,
+                "name": "Platform as a Service",
+                "url": "http://www.mix-it.fr/api/interests/239"
+            },
+            {
+                "id": 70,
+                "name": "Continuous Integration",
+                "url": "http://www.mix-it.fr/api/interests/70"
+            },
+            {
+                "id": 2,
+                "name": "Java",
+                "url": "http://www.mix-it.fr/api/interests/2"
+            },
+            {
+                "id": 64,
+                "name": "Eclipse",
+                "url": "http://www.mix-it.fr/api/interests/64"
+            },
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 245,
+                "name": "Qualité",
+                "url": "http://www.mix-it.fr/api/interests/245"
+            },
+            {
+                "id": 17,
+                "name": "Scrum",
+                "url": "http://www.mix-it.fr/api/interests/17"
+            },
+            {
+                "id": 147,
+                "name": "Agile Testing",
+                "url": "http://www.mix-it.fr/api/interests/147"
+            },
+            {
+                "id": 163,
+                "name": "Jenkins",
+                "url": "http://www.mix-it.fr/api/interests/163"
+            },
+            {
+                "id": 3,
+                "name": "TDD",
+                "url": "http://www.mix-it.fr/api/interests/3"
+            },
+            {
+                "id": 130,
+                "name": "Maven",
+                "url": "http://www.mix-it.fr/api/interests/130"
+            },
+            {
+                "id": 14,
+                "name": "Git",
+                "url": "http://www.mix-it.fr/api/interests/14"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 368,
+                "firstname": "Xavier",
+                "lastname": "NOPRE",
+                "url": "http://www.mix-it.fr/api/members/368"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 171,
+        "title": "Hackergarten",
+        "summary": "Envie de voir l’autre coté du miroir ? Saisissez la chance de contribuer à des projets open-source. ",
+        "description": "Envie de voir l’autre coté du miroir ? Saisissez la chance de contribuer à des projets open-source. Ensemble nous allons, avec plusieurs commiters open-source pour nous accompagner, soumettre des patchs, des features ou d’autres contributions. Pendant ces 3 heures, tout le monde est le bienvenu ou la bienvenue, amenez juste votre portable et votre volonté !\r\n\r\nCet évènement est la déclinaison du hackergarten original créé par Hamlet D\u0027Harcy.\r\n\r\n\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\r\nBrice Dutheil (Mockito) co-organisera.\r\n\r\nProjets :\r\n\r\n* Mockito\r\n* FluentLenium\r\n* XWiki\r\n* Groovy\r\n* Silverpeas\r\n* Golo\r\n\r\net d\u0027autres à venir ! \r\n\r\nPour ajouter le votre, n\u0027hésitez pas à l\u0027indiquer en commentaire !",
+        "interests": [
+            {
+                "id": 199,
+                "name": "OpenSource",
+                "url": "http://www.mix-it.fr/api/interests/199"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 82,
+                "firstname": "Mathilde",
+                "lastname": "Lemee",
+                "url": "http://www.mix-it.fr/api/members/82"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 175,
+        "title": "Entrer dans le monde du robot Nao",
+        "summary": "Présentation du robot humanoide par deux développeuses Nao. Qu\u0027est-ce qu\u0027il y a dedans ? Qu\u0027est-ce qu\u0027on peut faire avec?",
+        "description": "Nao est un robot homanoïde concu par Aldebaran Robotics à Paris.\r\n\r\nLors de cette présentation, nous aborderons la genèse de Nao, le contenu hardware et les interfaces software, ses cas d\u0027utilisations et surtout comment faire des applications avec. Il y aura bien sûr quelques démos.\r\n\r\nNous sommes aussi là pour répondre à vos questions et partager notre expérience sur la programmation ludique de Nao !",
+        "interests": [
+            {
+                "id": 137,
+                "name": "Python",
+                "url": "http://www.mix-it.fr/api/interests/137"
+            },
+            {
+                "id": 283,
+                "name": "NAO Robot",
+                "url": "http://www.mix-it.fr/api/interests/283"
+            },
+            {
+                "id": 205,
+                "name": "Enfants",
+                "url": "http://www.mix-it.fr/api/interests/205"
+            },
+            {
+                "id": 94,
+                "name": "C++",
+                "url": "http://www.mix-it.fr/api/interests/94"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 584,
+                "firstname": "Tasha",
+                "lastname": "CARL",
+                "url": "http://www.mix-it.fr/api/members/584"
+            },
+            {
+                "id": 604,
+                "firstname": "Blandine",
+                "lastname": "Bourgois",
+                "url": "http://www.mix-it.fr/api/members/604"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 177,
+        "title": "Mettre en place un déploiement continu",
+        "summary": "Mise en place pratique d\u0027un déploiement continu automatisé, sans interruption de service et en prenant en compte les évolutions de BDD.",
+        "description": "Comment livrer en production à la demande, en un seul clic ! Mieux encore, livrer sereinement tous les jours sans action humaine !\r\nImpossible ? Des acteurs comme Facebook, Flickr ou Amazon réalisent cet exploit des dizaines de fois par jour, sans interruption de service.\r\nNous verrons lors de cette session comment mettre en place simplement un processus de déploiement continu : \r\n- Nginx pour load-balancer et éviter les interruptions de service avec un pattern \"Blue-Green deployment\"\r\n- Eclipse pour distinguer la livraison de code et la livraison de fonctionnalité avec du Feature Flipping \r\n- Jenkins pour automatiser le tout\r\n\r\nNous verrons aussi comment gérer les évolutions de base de données avec un tel processus.\r\n\r\n~1h",
+        "interests": [
+            {
+                "id": 29,
+                "name": "BDD",
+                "url": "http://www.mix-it.fr/api/interests/29"
+            },
+            {
+                "id": 296,
+                "name": "Continuous Deployment",
+                "url": "http://www.mix-it.fr/api/interests/296"
+            },
+            {
+                "id": 163,
+                "name": "Jenkins",
+                "url": "http://www.mix-it.fr/api/interests/163"
+            },
+            {
+                "id": 297,
+                "name": "Zero Downtime Deployment",
+                "url": "http://www.mix-it.fr/api/interests/297"
+            },
+            {
+                "id": 70,
+                "name": "Continuous Integration",
+                "url": "http://www.mix-it.fr/api/interests/70"
+            },
+            {
+                "id": 16,
+                "name": "DevOps",
+                "url": "http://www.mix-it.fr/api/interests/16"
+            },
+            {
+                "id": 298,
+                "name": "Feature Flipping",
+                "url": "http://www.mix-it.fr/api/interests/298"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 615,
+                "firstname": "Benoit",
+                "lastname": "Lafontaine",
+                "url": "http://www.mix-it.fr/api/members/615"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 182,
+        "title": "Hands On Elasticsearch",
+        "summary": "Un atelier pratique en Java sur l\u0027intégration d\u0027Elasticsearch dans vos projets",
+        "description": "## Elastic Search : Un moteur de recherche pour votre SI\r\n\r\nPartant de l’idée un peu folle qu’il faut utiliser un *moteur de recherche* pour faire de la *recherche*, nous allons démontrer au cours d’un atelier pratique à quel point il est simple de mettre en oeuvre le moteur de recherche Elastic Search et de l’intégrer avec votre code Java.\r\n\r\nCe Hands-On est fait pour vous si :\r\n\r\n* Vous utilisez encore des requêtes SQL pour faire des recherches,\r\n* Vos utilisateurs vous reprochent de ne pas pouvoir chercher sur toutes les rubriques,\r\n* Votre temps de réponse moyen est supérieur à la demi-seconde avec seulement quelques millions de documents,\r\n* Il vous faut 3 jours pour produire des statistiques sur vos données,\r\n* Vous rêvez d’offrir une recherche “à la google” sur les données de votre SI.\r\n\r\n### Que va-t’on faire ?\r\n\r\nL\u0027atelier sera découpé en plusieurs petites présentations et ateliers successifs :\r\n\r\n* Présentation générale sur la recherche et Elasticsearch d’environ 20 minutes,\r\n* Préparation des exercices : installer son poste et démarrer un Elasticsearch,\r\n* Présentation des API Java indexation et atelier,\r\n* Présentation des API Java de recherche et atelier,\r\n* Présentation des Facettes et atelier.\r\nS’il reste un peu de temps, nous découvrirons la réplication sur plusieurs noeuds et les principaux outils de surveillance du cluster.\r\n\r\n### Pré-requis\r\n\r\nL’atelier ne nécessite pas de connaissances particulières hormis savoir utiliser son IDE et développer en Java.\r\n\r\nSur votre poste de travail, il faut avoir :\r\n\r\n* JDK 1.7 (1.6 au pire)\r\n* Maven 3.x,\r\n* GIT (éventuellement mais pas indispensable),\r\n* Un IDE est préférable",
+        "interests": [
+            {
+                "id": 12,
+                "name": "Cloud",
+                "url": "http://www.mix-it.fr/api/interests/12"
+            },
+            {
+                "id": 240,
+                "name": "rest",
+                "url": "http://www.mix-it.fr/api/interests/240"
+            },
+            {
+                "id": 61,
+                "name": "Recherche",
+                "url": "http://www.mix-it.fr/api/interests/61"
+            },
+            {
+                "id": 2,
+                "name": "Java",
+                "url": "http://www.mix-it.fr/api/interests/2"
+            },
+            {
+                "id": 135,
+                "name": "JSON",
+                "url": "http://www.mix-it.fr/api/interests/135"
+            },
+            {
+                "id": 149,
+                "name": "NoSQL",
+                "url": "http://www.mix-it.fr/api/interests/149"
+            },
+            {
+                "id": 76,
+                "name": "ElasticSearch",
+                "url": "http://www.mix-it.fr/api/interests/76"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 607,
+                "firstname": "David",
+                "lastname": "Pilato",
+                "url": "http://www.mix-it.fr/api/members/607"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 185,
+        "title": "Introduction au NoSQL avec Couchbase",
+        "summary": "Présentation à base de démonstrations de la base de données NoSQL orientée document Couchbase 2.0. (Clustering, JSON, MapReduce)",
+        "description": "Cette présentation commencera par une courte introduction au NoSQL. Cette introduction expliquera les raisons pour lesquelles de plus en plus de projets utilisent ce type de solutions et les limitations des architectures classiques. Tugdual fera également le tour des différentes approches (Clé Valeur, Document, Colonnes, Graph) et solutions.\r\n\r\nUne fois cette rapide introduction effectuée vous verrez en detail la solution Couchbase Server 2.0.  Couchbase est une base de donées NoSQL orientée Document développée en Open Source. Tugdual presentera en s\u0027appuyant sur des démonstrations\r\n\r\n* le développement d\u0027applications Java (et/ou autres selon les gouts) sur du NoSQL en expliquant les bénéfices des solutions\r\n* se basant sur des structures de données flexibles (Document JSON)\r\n* l\u0027utilisation de Map Reduce pour la création de requetes complexes\r\n* la mise en place et l\u0027administration d\u0027un cluster, et les défis associés",
+        "interests": [
+            {
+                "id": 8,
+                "name": "NodeJS",
+                "url": "http://www.mix-it.fr/api/interests/8"
+            },
+            {
+                "id": 29,
+                "name": "BDD",
+                "url": "http://www.mix-it.fr/api/interests/29"
+            },
+            {
+                "id": 246,
+                "name": "Angular.js",
+                "url": "http://www.mix-it.fr/api/interests/246"
+            },
+            {
+                "id": 300,
+                "name": "Map Reduce",
+                "url": "http://www.mix-it.fr/api/interests/300"
+            },
+            {
+                "id": 297,
+                "name": "Zero Downtime Deployment",
+                "url": "http://www.mix-it.fr/api/interests/297"
+            },
+            {
+                "id": 119,
+                "name": "Clustering",
+                "url": "http://www.mix-it.fr/api/interests/119"
+            },
+            {
+                "id": 201,
+                "name": "Cache",
+                "url": "http://www.mix-it.fr/api/interests/201"
+            },
+            {
+                "id": 135,
+                "name": "JSON",
+                "url": "http://www.mix-it.fr/api/interests/135"
+            },
+            {
+                "id": 117,
+                "name": "Failover",
+                "url": "http://www.mix-it.fr/api/interests/117"
+            },
+            {
+                "id": 149,
+                "name": "NoSQL",
+                "url": "http://www.mix-it.fr/api/interests/149"
+            },
+            {
+                "id": 76,
+                "name": "ElasticSearch",
+                "url": "http://www.mix-it.fr/api/interests/76"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 623,
+                "firstname": "Grall",
+                "lastname": "Tugdual",
+                "url": "http://www.mix-it.fr/api/members/623"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 192,
+        "title": "Développeurs Anonymes",
+        "summary": "Venez vivre un programme d\u0027entraînement pour écrire du code dont vous serez plus fier. Cette expérience risque de changer vos habitudes !",
+        "description": "Nous nous appelons Johan et Rémy et nous codons mal. Ensemble, nous allons corriger de mauvaises habitudes de codage. Aujourd’hui, en tant que développeurs orienté objet, nous souhaitons nous améliorer en corrigeant nos vieux réflexes de développement procédurale.\r\n\r\nÉcrire du code propre, rêve ou réalité ? Par constatation, nous savons que les bons développeurs prennent le temps de s’entraîner afin d’apprendre le geste parfait et les bons réflexes.\r\n\r\nVenez repousser vos limites en appliquant [Object Calisthenics](http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf \"Object Calisthenics\") sur un code 100% procédural. Saurez-vous relever le défi ?\r\n\r\n**Bénéfices** : Vous ressortirez avec un programme d\u0027entraînement pour écrire du code dont vous serez plus fier, que vous pourrez partager avec vos collègues.\r\n\r\nApplicable dès le lendemain sur vos projets, cette expérience risque de changer vos habitudes ! Cerise sur la gâteau, faites le plein d’astuces et de raccourcis clavier pour refactorer efficacement votre code.",
+        "interests": [
+            {
+                "id": 183,
+                "name": "Craftsmanship",
+                "url": "http://www.mix-it.fr/api/interests/183"
+            },
+            {
+                "id": 257,
+                "name": "Coding Dojo",
+                "url": "http://www.mix-it.fr/api/interests/257"
+            },
+            {
+                "id": 275,
+                "name": "Clean Code",
+                "url": "http://www.mix-it.fr/api/interests/275"
+            },
+            {
+                "id": 182,
+                "name": "Apprentissage",
+                "url": "http://www.mix-it.fr/api/interests/182"
+            },
+            {
+                "id": 2,
+                "name": "Java",
+                "url": "http://www.mix-it.fr/api/interests/2"
+            },
+            {
+                "id": 48,
+                "name": "POO",
+                "url": "http://www.mix-it.fr/api/interests/48"
+            },
+            {
+                "id": 310,
+                "name": "Object Calisthenics",
+                "url": "http://www.mix-it.fr/api/interests/310"
+            },
+            {
+                "id": 311,
+                "name": "Refactoring",
+                "url": "http://www.mix-it.fr/api/interests/311"
+            },
+            {
+                "id": 105,
+                "name": "Legacy",
+                "url": "http://www.mix-it.fr/api/interests/105"
+            },
+            {
+                "id": 31,
+                "name": "eXtrem Programming",
+                "url": "http://www.mix-it.fr/api/interests/31"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 154,
+                "firstname": "Johan",
+                "lastname": "Martinsson",
+                "url": "http://www.mix-it.fr/api/members/154"
+            },
+            {
+                "id": 184,
+                "firstname": "Rémy",
+                "lastname": "Sanlaville",
+                "url": "http://www.mix-it.fr/api/members/184"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 195,
+        "title": "Les nouveautés de Groovy 2.1",
+        "summary": "Venez découvrir les nouvelles fonctionnalités de Groovy 2.1 !\r\nInvoke dynamic, type checking personnalisé, méta-annotations... ",
+        "description": "Fort de ses **1.7 millions de téléchargements l\u0027an passé**, Groovy continue son bonhomme de chemin en tête parmi les langages de programmation alternatifs pour la JVM.\r\n\r\nGroovy 2.0, sorti l\u0027an passé, introduisait dans son offre de la **modularité**, le support de JDK 7 au niveau syntaxique avec \"**Project Coin**\" autant qu\u0027au niveau JVM avec l\u0027utilisation d\u0027\"**invoke dynamic**\", et proposait des fonctionnalités de **typage et de compilation statique**.\r\n\r\nGroovy 2.1, quant à lui, s\u0027appuie sur ces bases pour compléter le support d\u0027\"invoke dynamic\" pour **plus de performances**. Il propose des améliorations permettant de documenter, d\u0027aider les IDEs, et de **vérifier statiquement les Domain-Specific Languages** construits avec Groovy. Vous pourrez créer des **méta-annotations** regroupant d\u0027autres annotations, pour éviter l\u0027annotation \"hell\". Et enfin, vous irez encore plus loin dans la **customisation du compilateur** !\r\n\r\nAccrochez votre ceinture, paré au décollage !",
+        "interests": [
+            {
+                "id": 89,
+                "name": "JVM",
+                "url": "http://www.mix-it.fr/api/interests/89"
+            },
+            {
+                "id": 199,
+                "name": "OpenSource",
+                "url": "http://www.mix-it.fr/api/interests/199"
+            },
+            {
+                "id": 55,
+                "name": "Groovy",
+                "url": "http://www.mix-it.fr/api/interests/55"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 27,
+                "firstname": "Guillaume",
+                "lastname": "Laforge",
+                "url": "http://www.mix-it.fr/api/members/27"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 198,
+        "title": "Deux ans dans le flux",
+        "summary": "C\u0027est l\u0027histoire de développeurs qui viennent de passer deux ans dans le flux... (c\u0027est aussi celle d\u0027un Scrum qui a mal tourné)",
+        "description": "Retour d\u0027expérience sur la vie d\u0027une petite équipe de développeurs qui est entrée dans l\u0027agilité il y a sept ans avec Scrum et qui a fait évoluer pas à pas sa façon de fonctionner.\r\n\r\nBénéfice : voir ce que peut devenir une approche agile sur le long terme\r\n\r\n---------------------------------\r\n\r\nLa session porte principalement sur les deux dernières années et les pratiques d\u0027un fonctionnement en flux :\r\n\u003cul style\u003d\"font-size:14px;\"\u003e\r\n\u003cli style\u003d\"color:inherit;\"\u003eles livraisons en continu qui ont remplacé les itérations\u003c/li\u003e\r\n\u003cli style\u003d\"color:inherit;\"\u003ela branche unique dans la gestion du code source\u003c/li\u003e\r\n\u003cli style\u003d\"color:inherit;\"\u003ele planning basé sur des calculs de probabilités\u003c/li\u003e\r\n\u003cli style\u003d\"color:inherit;\"\u003ela totalité des activités organisées en \"juste à temps\"\u003c/li\u003e\r\n\u003cli style\u003d\"color:inherit;\"\u003eles spécifications exécutables\u003c/li\u003e\r\n\u003cli style\u003d\"color:inherit;\"\u003ele client dans un rôle d\u0027explorateur\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\r\n-----------------------------------\r\n\r\nLa session a été présentée en 2012 à Agile Tour Toulouse et Agile Tour Montpellier.\r\nL\u0027expérience montre qu\u0027une une réelle pratique de l\u0027agilité permet de mieux apprécier le contenu de la session car on n\u0027y parle pas d\u0027une transition vers l\u0027agilité mais de ce que l\u0027on fait *après* Scrum.",
+        "interests": [
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 29,
+                "name": "BDD",
+                "url": "http://www.mix-it.fr/api/interests/29"
+            },
+            {
+                "id": 280,
+                "name": "Estimation",
+                "url": "http://www.mix-it.fr/api/interests/280"
+            },
+            {
+                "id": 182,
+                "name": "Apprentissage",
+                "url": "http://www.mix-it.fr/api/interests/182"
+            },
+            {
+                "id": 147,
+                "name": "Agile Testing",
+                "url": "http://www.mix-it.fr/api/interests/147"
+            },
+            {
+                "id": 17,
+                "name": "Scrum",
+                "url": "http://www.mix-it.fr/api/interests/17"
+            },
+            {
+                "id": 18,
+                "name": "Kanban",
+                "url": "http://www.mix-it.fr/api/interests/18"
+            },
+            {
+                "id": 70,
+                "name": "Continuous Integration",
+                "url": "http://www.mix-it.fr/api/interests/70"
+            },
+            {
+                "id": 26,
+                "name": "Lean",
+                "url": "http://www.mix-it.fr/api/interests/26"
+            },
+            {
+                "id": 209,
+                "name": "Specflow",
+                "url": "http://www.mix-it.fr/api/interests/209"
+            },
+            {
+                "id": 298,
+                "name": "Feature Flipping",
+                "url": "http://www.mix-it.fr/api/interests/298"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 622,
+                "firstname": "Olivier",
+                "lastname": "AZEAU",
+                "url": "http://www.mix-it.fr/api/members/622"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 204,
+        "title": "RubyMotion: iOS programming in Ruby",
+        "summary": "iOS programming has a hard time becoming popular to the masses. RubyMotion will give a little more fun to this task.",
+        "description": "Objective-C is a nice language, but if you come from a Java/.NET background - as most developers nowadays are - you may find it very difficult to understand: weird syntax, very verbose, etc.\r\n\r\nRubyMotion is an implementation of Ruby based on MacRuby that compiles, thru LLVM, to machine code executable on iOS.",
+        "interests": [
+            {
+                "id": 63,
+                "name": "Ruby",
+                "url": "http://www.mix-it.fr/api/interests/63"
+            },
+            {
+                "id": 21,
+                "name": "Mobile",
+                "url": "http://www.mix-it.fr/api/interests/21"
+            },
+            {
+                "id": 24,
+                "name": "iOS",
+                "url": "http://www.mix-it.fr/api/interests/24"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 32,
+                "firstname": "Franck",
+                "lastname": "Verrot",
+                "url": "http://www.mix-it.fr/api/members/32"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 205,
+        "title": "C’est le moment de se lancer dans s’cas là !",
+        "summary": "Venez découvrir le langage JVM du moment : Scala, lors d\u0027un workshop couvrant les bases.",
+        "description": "Ces derniers mois vous entendez parler de Scala un peu partout autour de vous ou...pas. \r\nMettez les mains dans le code et venez vous familiariser avec ce langage !\r\n\r\nLors de cet atelier, nous vous proposons de revenir sur des fondamentaux de Scala en nous intéressant tout particulièrement aux case class, au Pattern Matching, et pour finir aux Collections. \r\nL’atelier sera organisé autour d’exercices, mettant en jeu ces différentes notions et leurs subtilités.\r\n\r\nPas besoin de connaître les monades, monoïde ou autres, des connaissances en Java vous suffiront !",
+        "interests": [
+            {
+                "id": 180,
+                "name": "Programmation Fonctionnelle",
+                "url": "http://www.mix-it.fr/api/interests/180"
+            },
+            {
+                "id": 66,
+                "name": "Scala",
+                "url": "http://www.mix-it.fr/api/interests/66"
+            },
+            {
+                "id": 328,
+                "name": "fun",
+                "url": "http://www.mix-it.fr/api/interests/328"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 649,
+                "firstname": "Ludwine",
+                "lastname": "Probst",
+                "url": "http://www.mix-it.fr/api/members/649"
+            },
+            {
+                "id": 624,
+                "firstname": "mathieu",
+                "lastname": "chataigner",
+                "url": "http://www.mix-it.fr/api/members/624"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 207,
+        "title": "CasperJS, a ghost in the shell",
+        "summary": "Atelier CasperJS, outil permettant de scripter en js et en ligne de commande un scénario de navigation sur un véritable navigateur Web.",
+        "description": "CasperJS est un outil permettant de scripter en Javascript un scénario de navigation sur un véritable navigateur Web, basé sur Webkit et ne nécessitant pas d’interface graphique. CasperJS peut servir à produire des tests fonctionnels poussés bénéficiant d’un environnement DOM et Javascript complet, mais aussi à analyser des documents Web, faire des tests de performance ou même extraire des données.\r\n\r\nL’intérêt majeur de CasperJS est qu’il permet relativement simplement de tester et valider fonctionnellement des sites et applications Web complexes, reposant sur l’exploitation intensives de Javascript, de comportements asynchrones et d’AJAX par exemple.\r\n\r\n## Programme de l\u0027atelier\r\n\r\n### Installation de PhantomJS et CasperJS\r\n\r\nNous verrons comment installer ces outils sous Mac, Windows ou Linux.\r\n\r\n### Prise en main de l’API\r\n\r\nCe premier exercice permettra de prendre en main l’API de CasperJS, en scriptant une recherche effectuée sur Google et d’agréger quelques résultats.\r\n\r\n### Tests fonctionnels: tester fonctionnellement un site existant\r\n\r\nUne des grandes forces de CasperJS est de permettre de créer des tests fonctionnels sur un site existant, même si ce dernier ne dispose pas d’un outillage ou d’un environnement dédié.\r\n\r\nNous prendrons pour cobaye un site internet d’exemple et écrirons une suite de tests pour valider la conformité d’implémentation d’une fonctionnalité donnée ; puis nous casserons artificiellement cette dernière pour montrer l’intérêt de l’outil pour alerter sur ce type de problèmes quand ils surgissent.\r\n\r\n### Scraping\r\n\r\nCes manipulations nous permettront de voir comment obtenir et agréger des données en simulant la navigation d’un internaute sur un site donné.",
+        "interests": [
+            {
+                "id": 5,
+                "name": "JavaScript",
+                "url": "http://www.mix-it.fr/api/interests/5"
+            },
+            {
+                "id": 336,
+                "name": "Tests",
+                "url": "http://www.mix-it.fr/api/interests/336"
+            },
+            {
+                "id": 245,
+                "name": "Qualité",
+                "url": "http://www.mix-it.fr/api/interests/245"
+            },
+            {
+                "id": 334,
+                "name": "CasperJS",
+                "url": "http://www.mix-it.fr/api/interests/334"
+            },
+            {
+                "id": 335,
+                "name": "PhantomJS",
+                "url": "http://www.mix-it.fr/api/interests/335"
+            },
+            {
+                "id": 285,
+                "name": "Test",
+                "url": "http://www.mix-it.fr/api/interests/285"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 651,
+                "firstname": "Nicolas",
+                "lastname": "Perriault",
+                "url": "http://www.mix-it.fr/api/members/651"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 211,
+        "title": "Crafting Custom Android Views",
+        "summary": "Venez découvrir la recette magique pour construire des \"custom Views\" et rendre les interfaces de vos application Android uniques !",
+        "description": "The Android framework is bundled with a large set of UI widgets (aka Views) that may be used to create basic UIs. Using the provided widgets is often a good starting point but one may rapidly be confronted to the lack of possibilities. Fortunately, some options do exist and mainly consist on mastering the View class and its hierarchy.\r\n\r\nIn this talk, we will focus on pushing the Android UI framework to the next level. We will demonstrate Android lets you go beyond your imagination by improving the existing widgets, creating compound controls and/or crafting completely new Views. If you want to build insanely innovative and advanced UI on Android and want to delight your users, this talk is definitely for you!",
+        "interests": [
+            {
+                "id": 2,
+                "name": "Java",
+                "url": "http://www.mix-it.fr/api/interests/2"
+            },
+            {
+                "id": 258,
+                "name": "UI",
+                "url": "http://www.mix-it.fr/api/interests/258"
+            },
+            {
+                "id": 23,
+                "name": "Android",
+                "url": "http://www.mix-it.fr/api/interests/23"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 540,
+                "firstname": "Cyril",
+                "lastname": "Mottier",
+                "url": "http://www.mix-it.fr/api/members/540"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 218,
+        "title": "Groovy, les mains dans le cambouis",
+        "summary": "Comment se mettre à Groovy ? En mettant les mains dans le cambouis et en codant une petite application tous ensemble !",
+        "description": "La langage alternatif **Groovy est facile à prendre en mains pour un développeur Java**. Pour voir si cette assertion est vraie, je vous propose d\u0027essayer ensemble !\r\n\r\nAu delà de la familiarité avec le langage Java, nous verrons aussi ce que Groovy apporte de plus, comment il permet d\u0027avoir du **code plus concis et lisible**.\r\n\r\nVous en apprendrez également un peu plus sur son écosystème, en particulier sur l\u0027outil de build **Gradle**, ou le framework de test **Spock**.\r\n\r\nEt ensemble nous découvrirons les APIs sympas proposées par Groovy pour vous simplifier la vie !",
+        "interests": [
+            {
+                "id": 55,
+                "name": "Groovy",
+                "url": "http://www.mix-it.fr/api/interests/55"
+            },
+            {
+                "id": 339,
+                "name": "Spock",
+                "url": "http://www.mix-it.fr/api/interests/339"
+            },
+            {
+                "id": 166,
+                "name": "Gradle",
+                "url": "http://www.mix-it.fr/api/interests/166"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 27,
+                "firstname": "Guillaume",
+                "lastname": "Laforge",
+                "url": "http://www.mix-it.fr/api/members/27"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 221,
+        "title": "Scrum Metal Jacket",
+        "summary": "Scrum by the book ne répond plus à vos attentes, sortez des sentiers battus et passez à la vitesse supérieure avec Scrum Metal Jacket !",
+        "description": "Cette présentation sera un retour d’expérience sur la mise en place de l’agilité sur le projet SPark démarré en Octobre 2011 à la Société Générale.\r\n\r\nNous débuterons sur les prémices du projet avec les techniques de Story Mapping et Buy a Feature. Nous verrons ensuite pourquoi sur un projet aux objectifs forts et au sein d’un environnement où les contraintes organisationnelles sont nombreuses, Scrum n’était pas tout à fait adapté.\r\n\r\nNous étudierons comment l’équipe a su se remettre en question pour surmonter les obstacles et aboutir au final à un fonctionnement plus approprié au contexte du projet. Nous reviendrons notamment sur les notions de Burn Up, Work In Progress (WIP), Day-to-Day Done et de Craftsmanship.\r\n\r\nEnfin pour finir, nous effectuerons un état des lieux du projet permettant de montrer l’efficacité de ce nouveau mode de fonctionnement, ainsi que les points qui restent encore à améliorer.",
+        "interests": [
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 202,
+                "name": "Rétrospective",
+                "url": "http://www.mix-it.fr/api/interests/202"
+            },
+            {
+                "id": 147,
+                "name": "Agile Testing",
+                "url": "http://www.mix-it.fr/api/interests/147"
+            },
+            {
+                "id": 33,
+                "name": "Coaching",
+                "url": "http://www.mix-it.fr/api/interests/33"
+            },
+            {
+                "id": 42,
+                "name": "Organisation",
+                "url": "http://www.mix-it.fr/api/interests/42"
+            },
+            {
+                "id": 34,
+                "name": "Transition vers l\u0027agilité",
+                "url": "http://www.mix-it.fr/api/interests/34"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 248,
+                "firstname": "Jean-Louis",
+                "lastname": "Rigau",
+                "url": "http://www.mix-it.fr/api/members/248"
+            },
+            {
+                "id": 662,
+                "firstname": "Nicolas",
+                "lastname": "JOZWIAK",
+                "url": "http://www.mix-it.fr/api/members/662"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 227,
+        "title": "Voyage en pays inconnu",
+        "summary": "Des ingénieurs sont missionnés pour apprendre à une ethnie inconnue comment construire un pont ... 2 cultures pour 1 seul objectif !",
+        "description": "Contexte : Vous êtes une équipe d\u0027ingénieurs travaillant pour une entreprise de construction multinationale. Votre entreprise vient de signer un contrat avec le gouvernement de Derdia par lequel elle s\u0027engage à apprendre aux habitants la construction de ponts.\r\nLe gouvernement de Derdia porte un grand intérêt à ce projet car Derdia est un pays montagneux, jalonné de profondes vallées, et privé de ponts.Par conséquent les trajets entre les villages et la ville prennent souvent plusieurs jours.\r\n\r\nApprentissages ; Ce jeu met en scène la rencontre entre 2 cultures et les difficultés pour expliquer une connaissance maîtrisée par un des 2 groupes. A l\u0027image des difficultés rencontrés par les coach Agile qui ne connaissent pas toujours la culture de l\u0027entreprise dans laquelle ils interviennent pour enseigner l\u0027agilité.\r\n\r\nDurée: Entre 1h30 et 2h00\r\n\r\nParticipants ; Maximum de 15 joueurs (au delà ils ne seront qu\u0027observateurs)",
+        "interests": [
+            {
+                "id": 350,
+                "name": "Culture",
+                "url": "http://www.mix-it.fr/api/interests/350"
+            },
+            {
+                "id": 238,
+                "name": "Communication",
+                "url": "http://www.mix-it.fr/api/interests/238"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 175,
+                "firstname": "Alexandre",
+                "lastname": "BOUTIN",
+                "url": "http://www.mix-it.fr/api/members/175"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 228,
+        "title": "Agile Unlimited",
+        "summary": "Session, mi REX mi CONF, présentant des pratiques agiles utilisables en dehors de l\u0027IT et les difficultés spécifiques rencontrés hors IT",
+        "description": "L\u0027agilité est issue du monde du logiciel, c\u0027est une certitude ! \r\n\r\nEst-ce pour autant une limitation, sous entendu que cela ne marcherait pas en dehors du logiciel ... je ne le crois pas et je suis même certain du contraire.\r\n\r\nPlusieurs techniques couramment utilisée dans les projets logiciels peuvent être réutilisées dans d\u0027autres contextes avec des résultats particulièrement probants. Mais il est vrai que d\u0027autres difficultés, différentes de celles rencontrées avec l\u0027IT,  sont à affronter\r\n\r\nDe plus les techniques ne font pas tout, car il est nécessaire d\u0027analyser la culture de votre entreprise pour voir sir elle est \"Agile Compatible\" ?\r\n\r\nDurée : 45 minutes (max 60 minutes)",
+        "interests": [
+            {
+                "id": 350,
+                "name": "Culture",
+                "url": "http://www.mix-it.fr/api/interests/350"
+            },
+            {
+                "id": 33,
+                "name": "Coaching",
+                "url": "http://www.mix-it.fr/api/interests/33"
+            },
+            {
+                "id": 34,
+                "name": "Transition vers l\u0027agilité",
+                "url": "http://www.mix-it.fr/api/interests/34"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 175,
+                "firstname": "Alexandre",
+                "lastname": "BOUTIN",
+                "url": "http://www.mix-it.fr/api/members/175"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 229,
+        "title": "Concevoir son développement par l\u0027API",
+        "summary": "Et si nous commencions par l\u0027API ? Et ensuite ? Quelles bonnes pratiques pour concevoir une API sur de bonnes bases ?",
+        "description": "Il existe de nombreuses approches xxx-first, de mobile-first à content-first en passant par user-first, vous aurez compris le principe. \r\n\r\nEt si vos données étaient découplées de votre interface ? N\u0027est-ce pas suffisant pour poser une API à partir de là ? Et si nous faisions plutôt un API-first ? \r\n\r\nLe fait de commencer votre application par son API permet de se poser beaucoup de questions sur vos données et la façon dont vous allez les exposer de façon pérenne : pour les utilisateurs, pour les divers périphériques, pour les développeurs, pour les moteurs de recherche, pour un usage interne, etc. \r\n\r\nNous pourrons faire un mobile-first ensuite, nous n\u0027aurons plus qu\u0027à penser à l\u0027interface, le reste étant déjà mature.\r\n\r\n\r\nÇa c\u0027est la première étape, maintenant il est temps de construire cette API. Si vous croyez ne pas en être là, relisez le début : Il est temps de construire une API.\r\n\r\nL\u0027API publiée vous n\u0027en contrôlez plus les clients et faire évoluer les bases n\u0027est pas évident. Ce que vous construisez est là pour longtemps. Quelles sont les retours d\u0027expériences et bonnes pratiques pour ne pas se prendre les pieds dans le tapis ?\r\n\r\nVous avez certainement déjà entendu parler de REST mais les choses sont plus complexes que ça. Comment gérer les évolutions et les versions de l\u0027API ? les formats en entrée et en sortie ? les variations et paramètres d\u0027une même ressources ? les relations entre ressources ? la sécurité ? l\u0027authentification ? la gestion des erreurs ? la pagination ? l\u0027i18n et l10n ?\r\n\r\n\r\nPlus généralement, nous partons avec pour objectif premier de concevoir une API le plus tôt possible, avec des bases solides mais les plus simples possible. Nous allons parler de tout ça, autant pour échanger nos idées que pour vous faire part du retour d\u0027expérience pratique.",
+        "interests": [
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 174,
+                "name": "Performances",
+                "url": "http://www.mix-it.fr/api/interests/174"
+            },
+            {
+                "id": 74,
+                "name": "Web",
+                "url": "http://www.mix-it.fr/api/interests/74"
+            },
+            {
+                "id": 240,
+                "name": "rest",
+                "url": "http://www.mix-it.fr/api/interests/240"
+            },
+            {
+                "id": 134,
+                "name": "API",
+                "url": "http://www.mix-it.fr/api/interests/134"
+            },
+            {
+                "id": 241,
+                "name": "hypermedia",
+                "url": "http://www.mix-it.fr/api/interests/241"
+            },
+            {
+                "id": 287,
+                "name": "architecture",
+                "url": "http://www.mix-it.fr/api/interests/287"
+            },
+            {
+                "id": 135,
+                "name": "JSON",
+                "url": "http://www.mix-it.fr/api/interests/135"
+            },
+            {
+                "id": 341,
+                "name": "XML",
+                "url": "http://www.mix-it.fr/api/interests/341"
+            },
+            {
+                "id": 45,
+                "name": "Collaboration",
+                "url": "http://www.mix-it.fr/api/interests/45"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 641,
+                "firstname": "Éric",
+                "lastname": "Daspet",
+                "url": "http://www.mix-it.fr/api/members/641"
+            },
+            {
+                "id": 645,
+                "firstname": "David",
+                "lastname": "Larlet",
+                "url": "http://www.mix-it.fr/api/members/645"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 232,
+        "title": "Usinette",
+        "summary": "Présentation d\u0027un hackerspace dédié à la construction numérique et ouvert à de plus larges perspectives....",
+        "description": "Une Usinette est un hackerspace. Une Usinette n’est ni un atelier « clé en main », ni une petite usine franchisée qui proposerait systématiquement les mêmes machines. l’approche privilégiée est plutôt de mettre tout en œuvre pour permettre son évolution en fonction de besoins spécifiques locaux et s’appuyant autant que faire se peut sur des ressources (humaines, matières premières et secondaires) disponibles à proximité.",
+        "speakers": [
+            {
+                "id": 664,
+                "firstname": "Ursula",
+                "lastname": "GASTFALL",
+                "url": "http://www.mix-it.fr/api/members/664"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 233,
+        "title": "SensCritique.com : une histoire de start-up",
+        "summary": "Comment une discussion entre amis est devenue le 1er site de recommandation culturelle.",
+        "description": "Nous raconterons comment s\u0027est monté [SensCritique](http://www.senscritique.com) : de la genèse au financement, en passant par la problématique du recrutement.\r\n\r\nEgalement, comment un tel service se construit, avec les grands jalons du développement, et les technologies utilisées dans notre cas, que ce soit pour le site public ou sa version mobile en cours de construction.\r\n\r\nEnfin, nous expliquerons deux enjeux majeurs d\u0027une startup : comment créer et fédérer une communauté, et comment assurer sa monétisation.\r\n",
+        "interests": [
+            {
+                "id": 252,
+                "name": "Startup",
+                "url": "http://www.mix-it.fr/api/interests/252"
+            },
+            {
+                "id": 251,
+                "name": "Entrepreneuriat",
+                "url": "http://www.mix-it.fr/api/interests/251"
+            },
+            {
+                "id": 192,
+                "name": "recrutement",
+                "url": "http://www.mix-it.fr/api/interests/192"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 598,
+                "firstname": "Guillaume",
+                "lastname": "Boutin",
+                "url": "http://www.mix-it.fr/api/members/598"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 236,
+        "title": "Les paradoxes du leadership",
+        "summary": "Ne venez pas si vous ne voulez pas sortir de situations où plus rien ne semble fonctionner !",
+        "description": "Vous êtes un manager, un coach ou un leader anonyme.  En tout cas vous êtes un agent de changement et vous faîtes de votre mieux.  Mais vous rencontrez parfois certaines situations où rien ne semble marcher.\r\n\r\nVous respectez tous les principes, utilisez les meilleures pratiques, suivez les méthodes \"by the book\" et vous adaptez à votre contexte... Vous savez accompagner le changement : vous plantez des graines, construisez des ponts et entretenez la dynamique.\r\n\r\nPourtant, parfois, la résistance et les frictions semblent inévitables et les résultats sont au mieux passables, quand la situation ne dégénère pas ou se verrouille. Et ce malgré tout vos efforts !\r\n\r\nPeut-être, après tout n\u0027est-ce pas une question de process ou de pratiques, ni de structure ou de stratégie de changement ?... Parfois, étrangement, dans certaines situations, le bon sens et les recettes éprouvées ne fonctionnent pas !\r\n\r\nComment se fait-il que plus ça change, plus c\u0027est la même chose ?  Qu\u0027en est-il de l\u0027escalade symétrique ou des prophéties auto-réalisantes ? Comment lâcher prise et embrasser le paradoxe ?\r\n\r\nC\u0027est précisément ce que nous allons explorer dans cette session, en partageant des histoires issues de notre expérience. Nous analyserons les forces en jeu et présenterons les leçons que nous en avons tiré, en essayant de proposer des pistes pour débloquer ces situations.\r\n\r\nA l\u0027issue de cette session, vous aurez :\r\n- découvert des exemples concrets de situations où rien ne semble marcher,\r\n- appris à identifier ce genre de situations et de comportements paradoxaux,\r\n- compris les forces en jeu pour prendre du recul,\r\n- des options à votre disposition pour essayer de les débloquer.",
+        "interests": [
+            {
+                "id": 350,
+                "name": "Culture",
+                "url": "http://www.mix-it.fr/api/interests/350"
+            },
+            {
+                "id": 261,
+                "name": "Sociologie",
+                "url": "http://www.mix-it.fr/api/interests/261"
+            },
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 346,
+                "name": "Adoption",
+                "url": "http://www.mix-it.fr/api/interests/346"
+            },
+            {
+                "id": 238,
+                "name": "Communication",
+                "url": "http://www.mix-it.fr/api/interests/238"
+            },
+            {
+                "id": 33,
+                "name": "Coaching",
+                "url": "http://www.mix-it.fr/api/interests/33"
+            },
+            {
+                "id": 260,
+                "name": "Psychologie",
+                "url": "http://www.mix-it.fr/api/interests/260"
+            },
+            {
+                "id": 42,
+                "name": "Organisation",
+                "url": "http://www.mix-it.fr/api/interests/42"
+            },
+            {
+                "id": 41,
+                "name": "Management",
+                "url": "http://www.mix-it.fr/api/interests/41"
+            },
+            {
+                "id": 34,
+                "name": "Transition vers l\u0027agilité",
+                "url": "http://www.mix-it.fr/api/interests/34"
+            },
+            {
+                "id": 45,
+                "name": "Collaboration",
+                "url": "http://www.mix-it.fr/api/interests/45"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 304,
+                "firstname": "thomas",
+                "lastname": "lissajoux",
+                "url": "http://www.mix-it.fr/api/members/304"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 247,
+        "title": "Dart : one language to rule them all",
+        "summary": "A la croisée des chemins entre développement client, serveur et mobile, Dart a le potentiel pour révolutionner notre façon de développer.",
+        "description": "Dart est un langage (et une plateforme incluant VM, compilateur, etc.) actuellement en cours de développement chez Google, qui a le potentiel pour révolutionner notre façon de développer. Son mode de développement itératif, l\u0027équilibre qu\u0027il représente en tant que langage client et serveur, les talents que Google a réuni pour le développer sont autant de points qui donnent à penser que Dart sera une technologie majeure dans les prochaines années.\r\n\r\nAvant de plonger dans le code, nous commencerons par les raisons qui ont conduit Google à se lancer dans une telle aventure. On y parlera :\r\n\r\n* Dette technologique\r\n* Brevets logiciels\r\n* Flex\r\n* Oracle\r\n* Conception de langage orienté objet\r\n* Bytecode\r\n* Scala\r\n* NodeJS\r\n* Android\r\n* ChromeOS\r\n* NodeJS\r\n\r\nNous passerons ensuite en revue la dernière version du langage et de son écosystème :\r\n\r\n* Les bases du langage ou comment coder efficacement\r\n* Nouvelles API Streams, Mixins, Réflection\r\n* Utiliser Dart pour du scripting shell\r\n* Web UI : développement orienté composant\r\n* Pub : le \"Maven\" de Dart (en mieux je vous rassure)\r\n* Les défauts de Dart (et oui, il y en a ;-)\r\n\r\nNous terminerons cette session autour des possibilités offertes par Dart pour permettre de construire une nouvelle génération d\u0027applications :\r\n\r\n* Minimiser la duplication de code en partageant le code entre client et serveur\r\n* Stratégie de rendu côté client ou côté serveur\r\n* Gestion automatique du lazy loading sur les graphes d\u0027objets via des objets proxifiés côté client au travers d\u0027un tuyau Websocket\r\n* Chargement dynamique de modules",
+        "interests": [
+            {
+                "id": 246,
+                "name": "Angular.js",
+                "url": "http://www.mix-it.fr/api/interests/246"
+            },
+            {
+                "id": 146,
+                "name": "Neo4J",
+                "url": "http://www.mix-it.fr/api/interests/146"
+            },
+            {
+                "id": 5,
+                "name": "JavaScript",
+                "url": "http://www.mix-it.fr/api/interests/5"
+            },
+            {
+                "id": 279,
+                "name": "ajax",
+                "url": "http://www.mix-it.fr/api/interests/279"
+            },
+            {
+                "id": 23,
+                "name": "Android",
+                "url": "http://www.mix-it.fr/api/interests/23"
+            },
+            {
+                "id": 287,
+                "name": "architecture",
+                "url": "http://www.mix-it.fr/api/interests/287"
+            },
+            {
+                "id": 13,
+                "name": "HTML5",
+                "url": "http://www.mix-it.fr/api/interests/13"
+            },
+            {
+                "id": 20,
+                "name": "Dart",
+                "url": "http://www.mix-it.fr/api/interests/20"
+            },
+            {
+                "id": 143,
+                "name": "WebSockets",
+                "url": "http://www.mix-it.fr/api/interests/143"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 666,
+                "firstname": "Sébastien",
+                "lastname": "Deleuze",
+                "url": "http://www.mix-it.fr/api/members/666"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 248,
+        "title": "Comment tester une application html5 ?",
+        "summary": "Live coding sur les tests d\u0027acceptances d\u0027une application html5/javascript #bdd #javascript",
+        "description": "Dans ce live coding d\u0027environ 30 minutes vous verrez comment combiner l\u0027écriture de tests expressifs avec une application utilisant les technologies web derniers cris.\r\n\r\nCette démonstration est une application directe des principes du livre Growning Object Oriented Software Guided By Test, vous y trouverez BDD, TDD, HTML5, Java \u0026 JavaScript. Son application est particulièrement adapté avec des applications utilisant un front-end Javascript + Css.\r\n\r\nLa démonstration portera principalement sur la combinaison explosive de deux outils Cucumber \u0026 Zombie, pour des tests d\u0027acceptances en langage naturel et une vitesse d\u0027execution imbattable. Ces techniques sont utilisable avec d\u0027autres outils nous l\u0027évoquerons dans la partie de la présentation qui est dédiée à l\u0027échange avec le public pour discuter des avantages et des limites de cette approche.\r\n\r\nL\u0027occasion idéale de réconcilier BDD avec faisabilité, rapidité et innovation.\r\nLe code source de la démonstration, ainsi que quelques instructions sera mis à disposition.",
+        "interests": [
+            {
+                "id": 246,
+                "name": "Angular.js",
+                "url": "http://www.mix-it.fr/api/interests/246"
+            },
+            {
+                "id": 5,
+                "name": "JavaScript",
+                "url": "http://www.mix-it.fr/api/interests/5"
+            },
+            {
+                "id": 2,
+                "name": "Java",
+                "url": "http://www.mix-it.fr/api/interests/2"
+            },
+            {
+                "id": 13,
+                "name": "HTML5",
+                "url": "http://www.mix-it.fr/api/interests/13"
+            },
+            {
+                "id": 285,
+                "name": "Test",
+                "url": "http://www.mix-it.fr/api/interests/285"
+            },
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 183,
+                "name": "Craftsmanship",
+                "url": "http://www.mix-it.fr/api/interests/183"
+            },
+            {
+                "id": 29,
+                "name": "BDD",
+                "url": "http://www.mix-it.fr/api/interests/29"
+            },
+            {
+                "id": 74,
+                "name": "Web",
+                "url": "http://www.mix-it.fr/api/interests/74"
+            },
+            {
+                "id": 240,
+                "name": "rest",
+                "url": "http://www.mix-it.fr/api/interests/240"
+            },
+            {
+                "id": 245,
+                "name": "Qualité",
+                "url": "http://www.mix-it.fr/api/interests/245"
+            },
+            {
+                "id": 147,
+                "name": "Agile Testing",
+                "url": "http://www.mix-it.fr/api/interests/147"
+            },
+            {
+                "id": 3,
+                "name": "TDD",
+                "url": "http://www.mix-it.fr/api/interests/3"
+            },
+            {
+                "id": 258,
+                "name": "UI",
+                "url": "http://www.mix-it.fr/api/interests/258"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 597,
+                "firstname": "de Morlhon",
+                "lastname": "Jean-Laurent",
+                "url": "http://www.mix-it.fr/api/members/597"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 249,
+        "title": "Découvrez les lambdas avec Java 8",
+        "summary": "Découvrez les lambdas de Java 8 avec un atelier TDD, où vous aurez à utiliser les lambdas et les Streams de Java 8.",
+        "description": "Java 8 arrive très bientôt. Et avec cette nouvelle version, un nouveau paradigme de programmation: la programmation fonctionnelle, avec les lambdas.\r\n\r\nCette évolution est loin d\u0027être mineure, puisqu\u0027elle modifie en profondeur une API que chaque développeur Java utilise chaque jour: les collections.\r\n\r\nCet atelier vous propose, après une brève présentation de la syntaxe des lambdas, de mettre en pratique ce nouveau paradigme de programmation. Les participants se verront proposer une série de méthodes à implémenter, qui permettront de découvrir et mettre en pratique les lambdas et les Streams de Java 8. \r\n\r\nDes tests unitaires fournis permettront aux participants de vérifier le bon fonctionnement de leurs méthodes.",
+        "interests": [
+            {
+                "id": 180,
+                "name": "Programmation Fonctionnelle",
+                "url": "http://www.mix-it.fr/api/interests/180"
+            },
+            {
+                "id": 122,
+                "name": "Java8",
+                "url": "http://www.mix-it.fr/api/interests/122"
+            },
+            {
+                "id": 134,
+                "name": "API",
+                "url": "http://www.mix-it.fr/api/interests/134"
+            },
+            {
+                "id": 375,
+                "name": "stream",
+                "url": "http://www.mix-it.fr/api/interests/375"
+            },
+            {
+                "id": 374,
+                "name": "lambda",
+                "url": "http://www.mix-it.fr/api/interests/374"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 669,
+                "firstname": "Jean-Baptiste",
+                "lastname": "Nizet",
+                "url": "http://www.mix-it.fr/api/members/669"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 251,
+        "title": "Testons Agile! TDD vs DBO",
+        "summary": "ou comment, moi, développeur-testeur , j\u0027ai appris à ne plus m\u0027en faire avec les données",
+        "description": "Tester en isolation? \r\nImpossible, je suis trop lié à ma base de données!\r\nDu coup, je ne peux même pas tester mon application car je n\u0027ai pas de base de test, ou bien c\u0027est beaucoup trop long à jouer.\r\n\r\nCe dialogue trop souvent entendu pourrait bien appartenir définitivement au passé, si les développeurs voulaient bien prendre la peine de réflechir et développer enfin des applications propres, respectant les principes solides (oui S.O.L.I.D.), la vrai orthogonalité des interfaces\r\net ce que peux apporter le DDD...\r\n\r\nRemettre la base de données à sa place (et le DBA avec), c\u0027est possible!\r\nDiscutons et pratiquons autour d\u0027un exemple de code!",
+        "interests": [
+            {
+                "id": 183,
+                "name": "Craftsmanship",
+                "url": "http://www.mix-it.fr/api/interests/183"
+            },
+            {
+                "id": 67,
+                "name": ".Net",
+                "url": "http://www.mix-it.fr/api/interests/67"
+            },
+            {
+                "id": 93,
+                "name": "C#",
+                "url": "http://www.mix-it.fr/api/interests/93"
+            },
+            {
+                "id": 275,
+                "name": "Clean Code",
+                "url": "http://www.mix-it.fr/api/interests/275"
+            },
+            {
+                "id": 147,
+                "name": "Agile Testing",
+                "url": "http://www.mix-it.fr/api/interests/147"
+            },
+            {
+                "id": 3,
+                "name": "TDD",
+                "url": "http://www.mix-it.fr/api/interests/3"
+            },
+            {
+                "id": 70,
+                "name": "Continuous Integration",
+                "url": "http://www.mix-it.fr/api/interests/70"
+            },
+            {
+                "id": 262,
+                "name": "Software Architecture",
+                "url": "http://www.mix-it.fr/api/interests/262"
+            },
+            {
+                "id": 2,
+                "name": "Java",
+                "url": "http://www.mix-it.fr/api/interests/2"
+            },
+            {
+                "id": 171,
+                "name": "Domain Driven Design",
+                "url": "http://www.mix-it.fr/api/interests/171"
+            },
+            {
+                "id": 287,
+                "name": "architecture",
+                "url": "http://www.mix-it.fr/api/interests/287"
+            },
+            {
+                "id": 285,
+                "name": "Test",
+                "url": "http://www.mix-it.fr/api/interests/285"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 41,
+                "firstname": "guillaume",
+                "lastname": "saint etienne",
+                "url": "http://www.mix-it.fr/api/members/41"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 265,
+        "title": "Que je découpe ma demande en petits morceaux ?",
+        "summary": "Pardon ? Vous voulez que je découpe ma demande en morceaux ? Impossible, c\u0027est tout mon produit ou rien du tout !",
+        "description": "Pardon ? Vous voulez que je découpe ma demande en morceaux, que vous appelez \"user stories\" ? Impossible, c\u0027est tout mon produit ou rien du tout !\r\n\r\nDécouper un besoin en petits morceaux est beaucoup plus complexe qu\u0027il n\u0027y paraît. Suivre une vision sur un projet Agile est déjà difficile, le faire avec un grand nombre d\u0027histoires minuscules, c\u0027est pire.\r\n\r\nVoici ma solution. Créez votre Vision Produit. Établissez qui sont vos clients. Priorisez-les. Spécifiez vos fonctionnalités en terme d\u0027actions utilisateurs. Maintenant, il est facile de créer ces \"user stories\".\r\n\r\nAu cours de cet atelier, vous pratiquerez un processus complet pour aller d\u0027une simple idée à la rédaction d\u0027un backlog détaillé.",
+        "interests": [
+            {
+                "id": 390,
+                "name": "User Stories",
+                "url": "http://www.mix-it.fr/api/interests/390"
+            },
+            {
+                "id": 387,
+                "name": "Agile",
+                "url": "http://www.mix-it.fr/api/interests/387"
+            },
+            {
+                "id": 17,
+                "name": "Scrum",
+                "url": "http://www.mix-it.fr/api/interests/17"
+            },
+            {
+                "id": 388,
+                "name": "Product Owner",
+                "url": "http://www.mix-it.fr/api/interests/388"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 350,
+                "firstname": "Jonathan",
+                "lastname": "Scher",
+                "url": "http://www.mix-it.fr/api/members/350"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 270,
+        "title": "Pour un management vraiment agile",
+        "summary": "l\u0027auto-organisation est l\u0027un des fondements de l\u0027agilité. Mais comment susciter, favoriser ce style d\u0027organisation ?",
+        "description": "La sociocratie et plus généralement les pratiques d\u0027intelligence collective sont à mon sens une réponse à la question du management agile. \r\nCet atelier propose des pratiques simples et ludiques, réalistes, de management véritablement agile, qui favorisent l\u0027auto-organisation des équipes, plutôt qu\u0027un management de proximité, relooké, mais qui reste fondamentalement en command \u0026 control.\r\n\r\n",
+        "interests": [
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 387,
+                "name": "Agile",
+                "url": "http://www.mix-it.fr/api/interests/387"
+            },
+            {
+                "id": 17,
+                "name": "Scrum",
+                "url": "http://www.mix-it.fr/api/interests/17"
+            },
+            {
+                "id": 394,
+                "name": "Extreme Programming",
+                "url": "http://www.mix-it.fr/api/interests/394"
+            },
+            {
+                "id": 345,
+                "name": "Communauté",
+                "url": "http://www.mix-it.fr/api/interests/345"
+            },
+            {
+                "id": 41,
+                "name": "Management",
+                "url": "http://www.mix-it.fr/api/interests/41"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 599,
+                "firstname": "Thierry",
+                "lastname": "Cros",
+                "url": "http://www.mix-it.fr/api/members/599"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 271,
+        "title": "The Clean Architecture",
+        "summary": "nous vous proposons de passer en revue du code pour mettre en lumière ce qui peut apparaître comme de bonnes pratiques d\u0027architecture SOLID",
+        "description": "à travers du code (C# pour l\u0027occasion), explorons ce qui fait d\u0027une architecture logicielle une réalité pour un code vraiment Agile et SOLIDe.\r\n\r\nNous expliquerons comment et pourquoi éviter les pièges du code tout fait (ORM, Scaffolding), comment (et pourquoi) rester toujours testable à moindre coût, comment  (et pourquoi) être DRY, être S.O.L.I.D., utiliser le Domain Driven Design comme un atout et non comme un précepte aveugle...\r\nNous parlerons d\u0027architecture hexagonale ou orthogonale, de programmation par contrat (interfaces), d\u0027isolation, de découplage, de disparité d\u0027impédance données / objet et nous remettrons l\u0027architecture au coeur de la problématique d\u0027un développement dit \"Agile\"",
+        "interests": [
+            {
+                "id": 67,
+                "name": ".Net",
+                "url": "http://www.mix-it.fr/api/interests/67"
+            },
+            {
+                "id": 296,
+                "name": "Continuous Deployment",
+                "url": "http://www.mix-it.fr/api/interests/296"
+            },
+            {
+                "id": 369,
+                "name": "pair programming",
+                "url": "http://www.mix-it.fr/api/interests/369"
+            },
+            {
+                "id": 387,
+                "name": "Agile",
+                "url": "http://www.mix-it.fr/api/interests/387"
+            },
+            {
+                "id": 70,
+                "name": "Continuous Integration",
+                "url": "http://www.mix-it.fr/api/interests/70"
+            },
+            {
+                "id": 2,
+                "name": "Java",
+                "url": "http://www.mix-it.fr/api/interests/2"
+            },
+            {
+                "id": 311,
+                "name": "Refactoring",
+                "url": "http://www.mix-it.fr/api/interests/311"
+            },
+            {
+                "id": 381,
+                "name": "Domain Specific Language",
+                "url": "http://www.mix-it.fr/api/interests/381"
+            },
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 183,
+                "name": "Craftsmanship",
+                "url": "http://www.mix-it.fr/api/interests/183"
+            },
+            {
+                "id": 271,
+                "name": "Persistance",
+                "url": "http://www.mix-it.fr/api/interests/271"
+            },
+            {
+                "id": 353,
+                "name": "Amélioration continue",
+                "url": "http://www.mix-it.fr/api/interests/353"
+            },
+            {
+                "id": 336,
+                "name": "Tests",
+                "url": "http://www.mix-it.fr/api/interests/336"
+            },
+            {
+                "id": 147,
+                "name": "Agile Testing",
+                "url": "http://www.mix-it.fr/api/interests/147"
+            },
+            {
+                "id": 317,
+                "name": "TDD;Binômage",
+                "url": "http://www.mix-it.fr/api/interests/317"
+            },
+            {
+                "id": 262,
+                "name": "Software Architecture",
+                "url": "http://www.mix-it.fr/api/interests/262"
+            },
+            {
+                "id": 306,
+                "name": "Big Data",
+                "url": "http://www.mix-it.fr/api/interests/306"
+            },
+            {
+                "id": 48,
+                "name": "POO",
+                "url": "http://www.mix-it.fr/api/interests/48"
+            },
+            {
+                "id": 259,
+                "name": "Philosophie",
+                "url": "http://www.mix-it.fr/api/interests/259"
+            },
+            {
+                "id": 171,
+                "name": "Domain Driven Design",
+                "url": "http://www.mix-it.fr/api/interests/171"
+            },
+            {
+                "id": 228,
+                "name": "DLL",
+                "url": "http://www.mix-it.fr/api/interests/228"
+            },
+            {
+                "id": 31,
+                "name": "eXtrem Programming",
+                "url": "http://www.mix-it.fr/api/interests/31"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 599,
+                "firstname": "Thierry",
+                "lastname": "Cros",
+                "url": "http://www.mix-it.fr/api/members/599"
+            },
+            {
+                "id": 41,
+                "firstname": "guillaume",
+                "lastname": "saint etienne",
+                "url": "http://www.mix-it.fr/api/members/41"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Experienced"
+    },
+    {
+        "id": 272,
+        "title": "Quick Start avec le Cloud Google",
+        "summary": "Oserez-vous postuler pour un projet IT innovant sans connaître le Cloud de Google ?",
+        "description": "Cette session couvrira, démonstrations à l’appui :\r\n* le bigdata simplifié\r\n* l’utilisation d’un SGBDR “as a service”\r\n* l’intégration de services depuis des clients mobiles natifs (Android, iPhone)\r\n* l’utilisation d’OAuth2 à grande échelle\r\n* la recherche full-text dans vos applications web\r\n* le calcul intensif à base de machines virtuelles provisionnées à la volée\r\n* le datamining temps réel sur de gros volumes de données\r\n* …\r\n\r\nLe tout mettra en évidence l’étendue des solutions disponibles, leur scalabilité, leur combinatoire, leur facturation à l’usage et le peu de maintenance qu’elles nécessitent.\r\n\r\nDe nouvelles fonctionnalités arrivent chaque mois, il y forcément des choses à découvrir!",
+        "speakers": [
+            {
+                "id": 639,
+                "firstname": "Alexis",
+                "lastname": "Moussine-Pouchkine",
+                "url": "http://www.mix-it.fr/api/members/639"
+            },
+            {
+                "id": 698,
+                "firstname": "Didier",
+                "lastname": "Girard",
+                "url": "http://www.mix-it.fr/api/members/698"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 277,
+        "title": "Collaborer, et si on improvisait ?",
+        "summary": "A partir de saynettes inspirées du théâtre d’improvisation, découvrez les valeurs d’une collaboration efficace.",
+        "description": "Mise en scène d\u0027une collaboration réussie où vous êtes les acteurs principaux ! \r\n\r\nActe 1 : Comprendre. Qu’y a-t-il réellement derrière le concept de collaboration ? \r\n\r\nActe 2 : Ressentir. Nous expérimenterons des petits jeux simples issus du théâtre d’improvisation, très révélateurs des valeurs fondatrices de la collaboration.\r\n\r\nActe 3 : Jouer. En point d’orgue de ces expérimentations, improvisez en équipe des expériences de collaboration au service de l’histoire ! \r\n\r\n\r\nVous comprendrez pourquoi il est primordial de mettre en priorité #1 la collaboration au sein d’une équipe agile. Vous expérimenterez les mécanismes d’une collaboration efficace : écoute, confiance, adaptation, esprit d’équipe, but commun. Vous vivrez des petites réussites personnelles, et surtout l’immense plaisir partagé de morceaux d’improvisation collective réussie ! \r\n",
+        "speakers": [
+            {
+                "id": 160,
+                "firstname": "Vincent",
+                "lastname": "Daviet",
+                "url": "http://www.mix-it.fr/api/members/160"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 283,
+        "title": "Backbone, Ember et Angular sont dans un bateau",
+        "summary": "Backbone, Ember ou Angular ? Les débats sont enflammés ! Venez comparer forces et faiblesses de chacun pour vous faire votre propre opinion.",
+        "description": "Backbone, Ember et Angular sont trois frameworks en vogue de développement\r\nd\u0027applications riches en JavaScript. Lorsque vous recherchez des comparatifs en\r\nligne, les passionnés se déchirent et les avis sont souvent forts et tranchés :\r\ndifficile de faire un choix.\r\n\r\nNous verrons donc les différences d\u0027approche de chacun en essayant de nous\r\nimprégner de leur philosophie et spécificités.  Aussi nous nous attarderons sur\r\nleurs forces et faiblesses en les illustrant au travers d\u0027exemples tirés de\r\nl\u0027implémentation d\u0027une même application prétexte avec chacune de ces\r\ntechnologies.\r\n\r\nLe but n\u0027est pas de ressortir un vainqueur parmi les trois mais de voir en quoi\r\nleurs approches sont différentes afin que vous puissiez vous forger votre\r\npropre opinion.",
+        "interests": [
+            {
+                "id": 246,
+                "name": "Angular.js",
+                "url": "http://www.mix-it.fr/api/interests/246"
+            },
+            {
+                "id": 5,
+                "name": "JavaScript",
+                "url": "http://www.mix-it.fr/api/interests/5"
+            },
+            {
+                "id": 141,
+                "name": "Backbone.js",
+                "url": "http://www.mix-it.fr/api/interests/141"
+            },
+            {
+                "id": 287,
+                "name": "architecture",
+                "url": "http://www.mix-it.fr/api/interests/287"
+            },
+            {
+                "id": 13,
+                "name": "HTML5",
+                "url": "http://www.mix-it.fr/api/interests/13"
+            },
+            {
+                "id": 72,
+                "name": "Ember.JS",
+                "url": "http://www.mix-it.fr/api/interests/72"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 567,
+                "firstname": "Loïc",
+                "lastname": "Frering",
+                "url": "http://www.mix-it.fr/api/members/567"
+            }
+        ],
+        "format": "Talk",
+        "level": "Experienced"
+    },
+    {
+        "id": 285,
+        "title": "D\u0027une bonne équipe à une équipe exceptionnelle",
+        "summary": "Découvrez 7 idées/pratiques des équipes d\u0027Atlassian qui vont vous aider à faire de votre équipe une équipe exceptionnelle.",
+        "description": "Le développement d\u0027applications au fil des années est un dur travail. Il est difficile pour une équipe aussi bonne soit elle de rester motivée au jour le jour. Le but de cette présentation est de donner quelques idées qui vont permettre à ces équipes de développeurs de rester motivées et focalisées.\r\n\r\nTirées de l\u0027expérience des équipes de développement à Atlassian, je présenterai 7 idées qui peuvent aider votre équipe. Ces idées varient en degrés de faisabilité et de retour sur investissement, et je donnerai mon opinion sur celle-ci afin que vous puissiez avoir les éléments en main pour choisir les idées que vous pourrez implémenter pour vos propres équipes.",
+        "interests": [
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 237,
+                "name": "Equipe",
+                "url": "http://www.mix-it.fr/api/interests/237"
+            },
+            {
+                "id": 353,
+                "name": "Amélioration continue",
+                "url": "http://www.mix-it.fr/api/interests/353"
+            },
+            {
+                "id": 206,
+                "name": "éducation",
+                "url": "http://www.mix-it.fr/api/interests/206"
+            },
+            {
+                "id": 387,
+                "name": "Agile",
+                "url": "http://www.mix-it.fr/api/interests/387"
+            },
+            {
+                "id": 182,
+                "name": "Apprentissage",
+                "url": "http://www.mix-it.fr/api/interests/182"
+            },
+            {
+                "id": 364,
+                "name": "méthodes",
+                "url": "http://www.mix-it.fr/api/interests/364"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 582,
+                "firstname": "Samuel",
+                "lastname": "Le Berrigaud",
+                "url": "http://www.mix-it.fr/api/members/582"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 287,
+        "title": "node.js: why, when and how",
+        "summary": "A talk on why, when and how to use node.js in new and existing systems",
+        "description": "A talk on why, when and how to use node.js in new and existing systems.",
+        "interests": [
+            {
+                "id": 8,
+                "name": "NodeJS",
+                "url": "http://www.mix-it.fr/api/interests/8"
+            },
+            {
+                "id": 12,
+                "name": "Cloud",
+                "url": "http://www.mix-it.fr/api/interests/12"
+            },
+            {
+                "id": 134,
+                "name": "API",
+                "url": "http://www.mix-it.fr/api/interests/134"
+            },
+            {
+                "id": 16,
+                "name": "DevOps",
+                "url": "http://www.mix-it.fr/api/interests/16"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 680,
+                "firstname": "Maciej",
+                "lastname": "Małecki",
+                "url": "http://www.mix-it.fr/api/members/680"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 293,
+        "title": "Retrospectives in action",
+        "summary": "Learn what retrospectives are all about by participating in this interactive workshop filled with exercises, tips and tricks and interaction",
+        "description": "At the heart of agile and lean thinking is the idea of change for the better. \r\n\r\nOne small improvement every day is another step towards continuous improvement. In many agile teams, retrospectives are the key enabling practice to continuous improvement yet it’s often difficult to understand what an effective retrospective feels like, and what elements teams should strive for. \r\n\r\nThis workshop offers something for everyone to learn how to use retrospectives to foster a culture of continuous improvement. People new to agile methods will learn what retrospectives are, why they are so important and some of the key elements to how to make them successful. Experienced people will refine their understanding through our exploration of the key elements and widen their toolkit by an experienced and passionate retrospective facilitator. \r\n\r\nMore importantly this tutorial encourages the most effective learning by involving all participants in a series of exercises to experience what an effective retrospective might feel like. \r\n\r\nParticipants will come away having learned:\r\n- The key elements of a retrospective\r\n- The responsibilities of the facilitator\r\n- A set of exercises to be used throughout a retrospective\r\n- The pitfalls and remedies when retrospectives go wrong\r\n\r\nNo prior experience is required to participate in this tutorial",
+        "interests": [
+            {
+                "id": 27,
+                "name": "Agilité",
+                "url": "http://www.mix-it.fr/api/interests/27"
+            },
+            {
+                "id": 202,
+                "name": "Rétrospective",
+                "url": "http://www.mix-it.fr/api/interests/202"
+            },
+            {
+                "id": 387,
+                "name": "Agile",
+                "url": "http://www.mix-it.fr/api/interests/387"
+            },
+            {
+                "id": 17,
+                "name": "Scrum",
+                "url": "http://www.mix-it.fr/api/interests/17"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 579,
+                "firstname": "Nick",
+                "lastname": "Oostvogels",
+                "url": "http://www.mix-it.fr/api/members/579"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    },
+    {
+        "id": 298,
+        "title": "Travis - Saving the world from failing tests",
+        "summary": "Travis started as a fun little experiment, and quickly grew into the goto place for open source continuous integration testing",
+        "description": "Some projects don\u0027t start with the idea of being big, they just start out as fun ideas, but what happens when you do grow and grow and grow!\r\n\r\nTravis started as a fun little experiment by Sven Fuchs, and quickly grew into the goto place for open source continuous integration testing. The last two years have seem tremendous growth in users, but also a huge change in how Travis is architected to deal with this level of scale.\r\n\r\nThis talk will cover a bit of the history of Travis, the changes in architecture required to get to where we are, and also talk about where we are going. Along the way we will talk about issues we have hit during our growth, not just technical but also topics related to growing your team and business.",
+        "interests": [
+            {
+                "id": 250,
+                "name": "PostgreSQL",
+                "url": "http://www.mix-it.fr/api/interests/250"
+            },
+            {
+                "id": 296,
+                "name": "Continuous Deployment",
+                "url": "http://www.mix-it.fr/api/interests/296"
+            },
+            {
+                "id": 69,
+                "name": "Rails",
+                "url": "http://www.mix-it.fr/api/interests/69"
+            },
+            {
+                "id": 144,
+                "name": "Amazon EC2",
+                "url": "http://www.mix-it.fr/api/interests/144"
+            },
+            {
+                "id": 70,
+                "name": "Continuous Integration",
+                "url": "http://www.mix-it.fr/api/interests/70"
+            },
+            {
+                "id": 134,
+                "name": "API",
+                "url": "http://www.mix-it.fr/api/interests/134"
+            },
+            {
+                "id": 139,
+                "name": "AMQP",
+                "url": "http://www.mix-it.fr/api/interests/139"
+            },
+            {
+                "id": 143,
+                "name": "WebSockets",
+                "url": "http://www.mix-it.fr/api/interests/143"
+            },
+            {
+                "id": 35,
+                "name": "Lean Startup",
+                "url": "http://www.mix-it.fr/api/interests/35"
+            },
+            {
+                "id": 12,
+                "name": "Cloud",
+                "url": "http://www.mix-it.fr/api/interests/12"
+            },
+            {
+                "id": 63,
+                "name": "Ruby",
+                "url": "http://www.mix-it.fr/api/interests/63"
+            },
+            {
+                "id": 356,
+                "name": "Monitoring",
+                "url": "http://www.mix-it.fr/api/interests/356"
+            },
+            {
+                "id": 173,
+                "name": "RabbitMQ",
+                "url": "http://www.mix-it.fr/api/interests/173"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 672,
+                "firstname": "Josh",
+                "lastname": "Kalderimis",
+                "url": "http://www.mix-it.fr/api/members/672"
+            }
+        ],
+        "format": "Talk",
+        "level": "Beginner"
+    },
+    {
+        "id": 305,
+        "title": "FabLab versus Usinette ",
+        "summary": "Usinette est un hackerspace dédié à la fabrication numérique, a déjà fabriqué de nombreux RepRap",
+        "description": "Une usinette fonctionne sur le modèle du hackerspace, on aide ceux qui le souhaitent à ouvrir leur propre usinette.\r\nComme un hackerspace, ce n’est pas seulement un outil mais c’est aussi un lieu de diffusion des savoirs et de transdisciplinarité : l’Usinette communique sur les travaux de ses adhérents et visiteurs. Elle organise des ateliers  pour favoriser la mise en oeuvre de projet Open Source Hardware comme la fabrication d\u0027imprimante 3D du type RepRap.\r\n ( Le projet RepRap (Replicating Rapid prototyping initié par Adrian Bowyer (University of Bath) a pour but de rendre accessible la technologie de \"l’imprimante 3d\" ou prototypage rapide pour tous. )",
+        "interests": [
+            {
+                "id": 406,
+                "name": "fablab",
+                "url": "http://www.mix-it.fr/api/interests/406"
+            }
+        ],
+        "speakers": [
+            {
+                "id": 664,
+                "firstname": "Ursula",
+                "lastname": "GASTFALL",
+                "url": "http://www.mix-it.fr/api/members/664"
+            }
+        ],
+        "format": "Workshop",
+        "level": "Beginner"
+    }
+]

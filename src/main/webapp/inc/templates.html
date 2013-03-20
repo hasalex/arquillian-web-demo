@@ -1,0 +1,19 @@
+<script id="talks-tpl" type="text/template">
+    <div id="data-loaded" ></div>
+    <table class="table table-striped table-hover" id="talks">
+        <thead>
+            <tr>
+                <th style="width:70%">Titre</th>
+                <th>Speaker</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#.}}
+            <tr>
+                <td>{{title}}</td>
+                <td>{{speaker}}</td>
+            </tr>
+            {{/.}}
+        </tbody>
+    </table>
+</script>

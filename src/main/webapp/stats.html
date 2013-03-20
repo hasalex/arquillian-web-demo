@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Search statistics</title>
+    <link href="css/bootstrap-combined.min.css" rel="stylesheet">
+</head>
+
+<body>
+<div class="navbar"></div>
+<div style="width: 300px">
+    <div id="stats"></div>
+</div>
+</body>
+
+<script src="js/mustache.min.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/common.js"></script>
+<script>
+    function showStats(input) {
+            $.getJSON('statistics.json', function (json) {
+            $('#stats').html(Mustache.to_html($('#template').html(), json));
+        });
+    }
+
+    showStats('');
+</script>
+<script id="template" type="text/template">
+    <span>Stats {{searchCount}} / {{distinctSearchCount}}</span>
+</script>
+
+</html>
