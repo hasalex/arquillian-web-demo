@@ -1,10 +1,8 @@
 package fr.sewatech.arquillian.ajax.backend;
 
-import fr.sewatech.arquillian.ajax.json.JSONable;
-
 import static java.lang.String.format;
 
-public class Statistics implements JSONable {
+public class Statistics {
     private int searchCount = 0;
     private int distinctSearchCount = 0;
     private String previousSearch = "";
@@ -32,12 +30,7 @@ public class Statistics implements JSONable {
     }
 
     @Override
-    public String toJSON() {
-        return format("{\"searchCount\": \"%s\", \"distinctSearchCount\": \"%s\"}", searchCount, distinctSearchCount);
-    }
-
-    @Override
     public String toString() {
-        return "Statistics" + toJSON();
+        return "Statistics" + format("{\"searchCount\": \"%s\", \"distinctSearchCount\": \"%s\"}", searchCount, distinctSearchCount);
     }
 }

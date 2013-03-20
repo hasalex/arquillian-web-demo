@@ -5,8 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class PagesUtils {
-    public static final String WEBAPP_SRC = "src/main/webapp";
-
     public static JavascriptUtil js(WebDriver browser) {
         return new JavascriptUtil((JavascriptExecutor) browser);
     }

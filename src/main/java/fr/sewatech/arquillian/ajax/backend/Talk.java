@@ -1,14 +1,13 @@
 package fr.sewatech.arquillian.ajax.backend;
 
 import com.google.common.base.Function;
-import fr.sewatech.arquillian.ajax.json.JSONable;
 
 import java.util.List;
 import java.util.Map;
 
 import static java.lang.String.format;
 
-public class Talk implements JSONable {
+public class Talk {
     public String title;
     public String summary;
     public String speaker;
@@ -34,13 +33,9 @@ public class Talk implements JSONable {
         }
     };
 
-    public String toJSON() {
-        return format("{\"title\": \"%s\", \"summary\": \"%s\", \"speaker\": \"%s\"}", title, summary, speaker);
-    }
-
     @Override
     public String toString() {
-        return "User" + toJSON();
+        return "Talk " + format("{\"title\": \"%s\", \"summary\": \"%s\", \"speaker\": \"%s\"}", title, summary, speaker);
     }
 
 }

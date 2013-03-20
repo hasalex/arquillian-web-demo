@@ -8,9 +8,9 @@ import org.jboss.shrinkwrap.resolver.api.maven.Maven;
 
 import java.io.File;
 
-import static fr.sewatech.arquillian.ajax.pages.PagesUtils.WEBAPP_SRC;
-
 public class Deployments {
+    public static final String WEBAPP_SRC = "src/main/webapp";
+
     public static Archive<?> deploy() {
         File[] requiredLibraries = Maven.resolver().loadPomFromFile("pom.xml")
                 .resolve("com.google.guava:guava", "org.codehaus.jackson:jackson-mapper-asl")
@@ -21,7 +21,6 @@ public class Deployments {
                 .addPackages(true, JsonServlet.class.getPackage())
                 .addAsResource("devoxx-2013-talks.json")
                 .addAsResource("mixit-2013-talks.json")
-                .addAsResource("mixit-2013-members.json")
                 .as(ExplodedImporter.class).importDirectory(WEBAPP_SRC).as(WebArchive.class);
     }
 }
