@@ -2,15 +2,14 @@ package fr.sewatech.arquillian.ajax;
 
 import fr.sewatech.arquillian.ajax.pages.TalkPage;
 import org.jboss.arquillian.container.test.api.Deployment;
+import org.jboss.arquillian.drone.api.annotation.Drone;
 import org.jboss.arquillian.junit.Arquillian;
 import org.jboss.arquillian.test.api.ArquillianResource;
 import org.jboss.shrinkwrap.api.Archive;
-import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.net.URL;
 
@@ -26,19 +25,13 @@ public class TalkPageArqTest {
         return Deployments.deploy();
     }
 
-    WebDriver browser;
+    @Drone WebDriver browser;
     @ArquillianResource URL baseUrl;
     TalkPage talkPage;
 
     @Before
     public void initialize() {
-        browser = new FirefoxDriver();
         talkPage = new TalkPage(browser, baseUrl.toString());
-    }
-
-    @After
-    public void thisIsTheEnd() {
-        browser.quit();
     }
 
     @Test
