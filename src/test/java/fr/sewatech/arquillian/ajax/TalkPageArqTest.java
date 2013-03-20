@@ -1,12 +1,12 @@
 package fr.sewatech.arquillian.ajax;
 
-import fr.sewatech.arquillian.ajax.pages.TalkPage;
+import fr.sewatech.arquillian.ajax.pages.TalkArqPage;
 import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.arquillian.drone.api.annotation.Drone;
+import org.jboss.arquillian.graphene.spi.annotations.Page;
 import org.jboss.arquillian.junit.Arquillian;
 import org.jboss.arquillian.test.api.ArquillianResource;
 import org.jboss.shrinkwrap.api.Archive;
-import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
@@ -27,12 +27,7 @@ public class TalkPageArqTest {
 
     @Drone WebDriver browser;
     @ArquillianResource URL baseUrl;
-    TalkPage talkPage;
-
-    @Before
-    public void initialize() {
-        talkPage = new TalkPage(browser, baseUrl.toString());
-    }
+    @Page TalkArqPage talkPage;
 
     @Test
     public void should_full_list_have_some_lines() {
