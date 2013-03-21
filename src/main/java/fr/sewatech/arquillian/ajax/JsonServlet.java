@@ -23,7 +23,6 @@ public class JsonServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String servletPath = req.getServletPath();
-        System.out.println("servletPath=" + servletPath);
         Object value;
         if ("/statistics.json".equals(servletPath)) {
             value = getStatistics(req);
@@ -56,7 +55,6 @@ public class JsonServlet extends HttpServlet {
 
     private Statistics getStatistics(HttpServletRequest req) {
         HttpSession session = req.getSession();
-        System.out.println("Getting statistics with sessionId " + session.getId());
         Statistics statistics = (Statistics) session.getAttribute(STATISTICS);
         if (statistics == null) {
             statistics = new Statistics();

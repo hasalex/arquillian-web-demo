@@ -14,9 +14,9 @@ import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOf;
 
 public class TalkPage {
 
-    private WebDriver browser;
-    private WebDriverWait wait;
-    private String baseUrl;
+    WebDriver browser;
+    WebDriverWait wait;
+    String baseUrl;
 
     @FindBy(id = "talks")
     WebElement talks;
