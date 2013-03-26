@@ -1,9 +1,7 @@
 package fr.sewatech.arquillian.ajax;
 
 import fr.sewatech.arquillian.ajax.pages.TalkPage;
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
@@ -13,19 +11,19 @@ public class TalkPageSeleniumIT {
 
     static final String MOI = "Alexis Hassler";
 
-    WebDriver browser;
-    String baseUrl;
-    TalkPage talkPage;
+    static WebDriver browser;
+    static String baseUrl;
+    static TalkPage talkPage;
 
-    @Before
-    public void initialize() {
+    @BeforeClass
+    public static void initialize() {
         browser = new FirefoxDriver();
         baseUrl = "http://localhost:8180/demo";
         talkPage = new TalkPage(browser, baseUrl);
     }
 
-    @After
-    public void thisIsTheEnd() {
+    @AfterClass
+    public static void thisIsTheEnd() {
         browser.quit();
     }
 
