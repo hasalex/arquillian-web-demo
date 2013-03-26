@@ -17,16 +17,17 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/common.js"></script>
 <script>
-    function showStats(input) {
-            $.getJSON('statistics.json', function (json) {
+    function showStats() {
+        $.getJSON('statistics.json', function (json) {
             $('#stats').html(Mustache.to_html($('#template').html(), json));
         });
     }
 
-    showStats('');
+    showStats();
 </script>
 <script id="template" type="text/template">
-    <span>Stats {{searchCount}} / {{distinctSearchCount}}</span>
+    <p>Nombre total de recherche : {{searchCount}}</p>
+    <p>Nombre de recherches distincts : {{distinctSearchCount}}</p>
 </script>
 
 </html>

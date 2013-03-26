@@ -28,13 +28,13 @@ public class TalkPageSeleniumIT {
     }
 
     @Test
-    public void should_full_list_have_some_lines() {
+    public void should_full_list_have_10_lines() {
         talkPage.open();
         assertEquals("Liste des talks", 10, talkPage.initialList().size());
     }
 
     @Test
-    public void should_filtered_list_have_less_lines() {
+    public void should_my_own_talks_list_have_2_lines() {
         talkPage.open();
         assertEquals("Liste des talks", 2, talkPage.searchBySpeaker(MOI).size());
     }
