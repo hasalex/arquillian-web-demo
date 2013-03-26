@@ -3,6 +3,8 @@ package fr.sewatech.arquillian.ajax.backend;
 import static java.lang.String.format;
 
 public class Statistics {
+    public static final String NAME = "statistics";
+
     private int searchCount = 0;
     private int distinctSearchCount = 0;
     private String previousSearch = "";

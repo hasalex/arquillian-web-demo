@@ -15,8 +15,6 @@ import java.util.Collection;
 @WebServlet(urlPatterns = "*.json")
 public class JsonServlet extends HttpServlet {
 
-    private static final String STATISTICS = "statistics";
-
     private TalkDAO talkDAO = TalkDAO.INSTANCE;
     private ObjectMapper objectMapper = new ObjectMapper();
 
@@ -55,10 +53,10 @@ public class JsonServlet extends HttpServlet {
 
     private Statistics getStatistics(HttpServletRequest req) {
         HttpSession session = req.getSession();
-        Statistics statistics = (Statistics) session.getAttribute(STATISTICS);
+        Statistics statistics = (Statistics) session.getAttribute(Statistics.NAME);
         if (statistics == null) {
             statistics = new Statistics();
-            session.setAttribute(STATISTICS, statistics);
+            session.setAttribute(Statistics.NAME, statistics);
         }
         return statistics;
     }
