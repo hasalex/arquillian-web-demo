@@ -1,11 +1,11 @@
 package fr.sewatech.arquillian.ajax;
 
-import fr.sewatech.arquillian.ajax.pages.TalkPage;
+import fr.sewatech.arquillian.ajax.pages.*;
 import org.junit.*;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.*;
+import org.openqa.selenium.firefox.*;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 public class TalkPageSeleniumIT {
 
@@ -18,7 +18,7 @@ public class TalkPageSeleniumIT {
     @Before
     public void initialize() {
         browser = new FirefoxDriver();
-        baseUrl = "http://localhost:8180/demo";
+        baseUrl = "http://localhost:8180/demo/";
         talkPage = new TalkPage(browser, baseUrl);
     }
 

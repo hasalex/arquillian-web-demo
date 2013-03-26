@@ -30,12 +30,12 @@ public class TalkPage {
     public TalkPage(WebDriver browser, String baseUrl) {
         this.browser = browser;
         this.baseUrl = baseUrl;
-        this.wait = new WebDriverWait(browser, 100);
+        this.wait = new WebDriverWait(browser, 1);
         PageFactory.initElements(browser, this);
     }
 
     public TalkPage open() {
-        browser.get(baseUrl.toString() + "/devoxx.html");
+        browser.get(baseUrl.toString() + "devoxx.html");
         wait.until(visibilityOf(talks));
         return this;
     }

@@ -12,6 +12,8 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.util.Collection;
 
+import static java.lang.Thread.*;
+
 @WebServlet(urlPatterns = "*.json")
 public class JsonServlet extends HttpServlet {
 
@@ -76,6 +78,11 @@ public class JsonServlet extends HttpServlet {
     }
 
     private Statistics deleteStatistics(HttpServletRequest req) {
+        try {
+            sleep(300);
+        } catch (InterruptedException e) {
+        }
+
         Statistics statistics = getStatistics(req);
         statistics.clear();
         return statistics;
