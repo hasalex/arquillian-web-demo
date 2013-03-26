@@ -4,21 +4,24 @@ import fr.sewatech.arquillian.ajax.pages.*;
 import org.junit.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.*;
-import org.openqa.selenium.support.ui.*;
+
+import java.util.*;
+
+import static org.junit.Assert.*;
 
 public class StatPageSeleniumIT {
 
     WebDriver browser;
     String baseUrl;
     TalkPage talkPage;
-    WebDriverWait wait;
+    StatPage statPage;
 
     @Before
     public void initialize() {
         browser = new FirefoxDriver();
         baseUrl = "http://localhost:8180/demo/";
         talkPage = new TalkPage(browser, baseUrl);
-        wait = new WebDriverWait(browser, 1);
+        statPage = new StatPage(browser, baseUrl);
     }
 
     @After
@@ -28,13 +31,8 @@ public class StatPageSeleniumIT {
 
     @Test
     public void should_clear_retrieve_0() throws InterruptedException {
-        talkPage.open();
-        talkPage.searchBySpeaker("azerty");
-
-        browser.get(baseUrl.toString() + "stats.html");
-        browser.findElement(By.id("clear")).click();
-        wait.until(ExpectedConditions.textToBePresentInElement(By.tagName("p"), ": 0"));
-//        List<WebElement> statLines = browser.findElements(By.tagName("p"));
-//        assertEquals("total", "Nombre total de recherche : 0", statLines.get(0).getText());
+        talkPage.open().searchBySpeaker("azerty");
+        List<WebElement> statElements = statPage.open().clear();
+        assertEquals("total", "Nombre total de recherche : 0", statElements.get(0).getText());
     }
 }
