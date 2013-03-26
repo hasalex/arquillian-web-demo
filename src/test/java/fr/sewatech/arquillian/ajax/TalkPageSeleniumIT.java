@@ -11,19 +11,19 @@ public class TalkPageSeleniumIT {
 
     static final String MOI = "Alexis Hassler";
 
-    static WebDriver browser;
-    static String baseUrl;
-    static TalkPage talkPage;
+    WebDriver browser;
+    String baseUrl;
+    TalkPage talkPage;
 
-    @BeforeClass
-    public static void initialize() {
+    @Before
+    public void initialize() {
         browser = new FirefoxDriver();
         baseUrl = "http://localhost:8180/demo";
         talkPage = new TalkPage(browser, baseUrl);
     }
 
-    @AfterClass
-    public static void thisIsTheEnd() {
+    @After
+    public void thisIsTheEnd() {
         browser.quit();
     }
 
