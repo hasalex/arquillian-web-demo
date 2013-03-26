@@ -32,9 +32,22 @@ public class JsonServlet extends HttpServlet {
             value = null;
         }
 
+        resp.setContentType("application/json");
         objectMapper.writeValue(resp.getWriter(), value);
     }
+    @Override
+    protected void doDelete(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        String servletPath = req.getServletPath();
+        Object value;
+        if ("/statistics.json".equals(servletPath)) {
+            value = deleteStatistics(req);
+        } else {
+            value = null;
+        }
 
+        resp.setContentType("application/json");
+        objectMapper.writeValue(resp.getWriter(), value);
+    }
     private Collection<Talk> talkDevoxx(HttpServletRequest req) {
         String speakerSearch = req.getParameter("speakerSearch");
         String titleSearch = req.getParameter("titleSearch");
@@ -42,6 +55,7 @@ public class JsonServlet extends HttpServlet {
         getStatistics(req).increment(titleSearch + speakerSearch);
         return talkDAO.findAtDevoxx(titleSearch, speakerSearch);
     }
+
 
     private Collection<Talk> talkMixit(HttpServletRequest req) {
         String speakerSearch = req.getParameter("speakerSearch");
@@ -58,6 +72,12 @@ public class JsonServlet extends HttpServlet {
             statistics = new Statistics();
             session.setAttribute(Statistics.NAME, statistics);
         }
+        return statistics;
+    }
+
+    private Statistics deleteStatistics(HttpServletRequest req) {
+        Statistics statistics = getStatistics(req);
+        statistics.clear();
         return statistics;
     }
 

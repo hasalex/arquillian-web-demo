@@ -10,6 +10,9 @@
 <div class="navbar"></div>
 <div style="width: 300px">
     <div id="stats"></div>
+    <div>
+        <button id="clear">RAZ</button>
+    </div>
 </div>
 </body>
 
@@ -18,15 +21,33 @@
 <script src="js/common.js"></script>
 <script>
     function showStats() {
-        $.getJSON('statistics.json', function (json) {
-            $('#stats').html(Mustache.to_html($('#template').html(), json));
+        $.getJSON('statistics.json', function (json) {printStats(json)});
+    }
+
+    function clearStats() {
+        $.ajax({
+            url: 'statistics.json',
+            type: 'DELETE',
+            success: function (json) {printStats(json)}
         });
     }
 
+    function printStats(json) {
+        $('#stats').html(Mustache.to_html($('#template').html(), json));
+    }
+
+    $('#clear').click(function () {
+        clearStats();
+    });
+
+
     showStats();
+
+
 </script>
 <script id="template" type="text/template">
     <p>Nombre total de recherche : {{searchCount}}</p>
+
     <p>Nombre de recherches distincts : {{distinctSearchCount}}</p>
 </script>
 

@@ -31,6 +31,11 @@ public class Statistics {
         return distinctSearchCount;
     }
 
+    public void clear() {
+        searchCount = 0;
+        distinctSearchCount = 0;
+    }
+
     @Override
     public String toString() {
         return "Statistics" + format("{\"searchCount\": \"%s\", \"distinctSearchCount\": \"%s\"}", searchCount, distinctSearchCount);
