@@ -106,7 +106,7 @@
             <groupId>org.jboss.arquillian.extension</groupId>
             <artifactId>arquillian-warp</artifactId>
             <type>pom</type>
-            <version>1.0.0.Alpha2</version>
+            <version>1.0.0.Beta1-SNAPSHOT</version>
             <scope>test</scope>
             <exclusions>
                 <exclusion>
