@@ -19,7 +19,7 @@ public class DaoUtils {
     public static Map<String, Object>[] loadFromFile(String fileName) {
         try {
             InputStream stream = TalkDAO.class.getClassLoader().getResourceAsStream(fileName);// https://cfp.devoxx.com/rest/v1/events/8/devoxx-2013-talks.json
-            Reader reader = new InputStreamReader(stream, "iso-8859-1");
+            Reader reader = new InputStreamReader(stream, "utf-8");
 
             ObjectMapper mapper = new ObjectMapper();
             Map[] maps = mapper.readValue(reader, Map[].class);
