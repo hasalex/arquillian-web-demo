@@ -1,31 +1,33 @@
 package fr.sewatech.arquillian.ajax;
 
 import fr.sewatech.arquillian.ajax.pages.*;
+import org.jboss.arquillian.container.test.api.*;
+import org.jboss.arquillian.drone.api.annotation.*;
+import org.jboss.arquillian.graphene.spi.annotations.*;
+import org.jboss.arquillian.junit.*;
+import org.jboss.arquillian.test.api.*;
+import org.jboss.shrinkwrap.api.spec.*;
 import org.junit.*;
+import org.junit.runner.*;
 import org.openqa.selenium.*;
-import org.openqa.selenium.firefox.*;
+
+import java.net.*;
 
 import static org.junit.Assert.*;
 
+@RunWith(Arquillian.class)
 public class TalkPageSeleniumIT {
 
     static final String MOI = "Alexis Hassler";
 
-    WebDriver browser;
-    String baseUrl;
-    TalkPage talkPage;
-
-    @Before
-    public void initialize() {
-        browser = new FirefoxDriver();
-        baseUrl = "http://localhost:8180/demo/";
-        talkPage = new TalkPage(browser, baseUrl);
+    @Deployment(testable = false)
+    public static WebArchive deploy() {
+        return Deployments.deploy();
     }
 
-    @After
-    public void thisIsTheEnd() {
-        browser.quit();
-    }
+    @ArquillianResource URL baseUrl;
+    @Drone WebDriver browser;
+    @Page TalkPage talkPage;
 
     @Test
     public void should_full_list_have_10_lines() {

@@ -20,7 +20,7 @@ public class StatPageSeleniumIT {
     public void initialize() {
         browser = new FirefoxDriver();
         baseUrl = "http://localhost:8180/demo/";
-        talkPage = new TalkPage(browser, baseUrl);
+        talkPage = new TalkPage();
         statPage = new StatPage(browser, baseUrl);
     }
 

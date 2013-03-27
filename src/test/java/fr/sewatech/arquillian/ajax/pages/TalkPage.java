@@ -1,22 +1,20 @@
 package fr.sewatech.arquillian.ajax.pages;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.WebDriverWait;
+import org.jboss.arquillian.drone.api.annotation.*;
+import org.jboss.arquillian.test.api.*;
+import org.openqa.selenium.*;
+import org.openqa.selenium.support.*;
 
-import java.util.List;
+import java.net.*;
+import java.util.*;
 
-import static org.openqa.selenium.support.ui.ExpectedConditions.presenceOfElementLocated;
-import static org.openqa.selenium.support.ui.ExpectedConditions.visibilityOf;
+import static org.jboss.arquillian.graphene.Graphene.*;
+import static org.openqa.selenium.support.ui.ExpectedConditions.*;
 
 public class TalkPage {
 
-    WebDriver browser;
-    WebDriverWait wait;
-    String baseUrl;
+    @Drone WebDriver browser;
+    @ArquillianResource URL baseUrl;
 
     @FindBy(id = "talks")
     WebElement talks;
@@ -27,16 +25,9 @@ public class TalkPage {
     @FindBy(id = "speakerSearch")
     WebElement speakerSearchField;
 
-    public TalkPage(WebDriver browser, String baseUrl) {
-        this.browser = browser;
-        this.baseUrl = baseUrl;
-        this.wait = new WebDriverWait(browser, 1);
-        PageFactory.initElements(browser, this);
-    }
-
     public TalkPage open() {
         browser.get(baseUrl.toString() + "devoxx.html");
-        wait.until(visibilityOf(talks));
+        waitAjax().until(visibilityOf(talks));
         return this;
     }
 
@@ -46,7 +37,7 @@ public class TalkPage {
 
     public List<WebElement> searchBySpeaker(String criteria) {
         speakerSearchField.sendKeys(criteria);
-        wait.until(presenceOfElementLocated(By.id("data-loaded")));
+        waitAjax().until(presenceOfElementLocated(By.id("data-loaded")));
         return talkRows;
     }
 }
